@@ -24,9 +24,9 @@ Multi-camera Networks research notes
 [3] [Yao et al. Multiview Cross-supervision for Semantic Segmentation. WACV'20.](https://arxiv.org/abs/1812.01738)<br>
 [4] [Zhang et al. Multiview Supervision By Registration. WACV'20.](https://arxiv.org/abs/1811.11251)
 #### MTMC tracking (todo)
-1. Deployment
+##### Deployment
 [1] [Qiu et al. Kestrel: Video Analytics for Augmented Multi-Camera Vehicle Tracking. IOTDI'18.](https://vision.ece.ucsb.edu/sites/default/files/publications/2018_iotdi.pdf)
-2. Algorithms
+##### Algorithms
 ### Video compression
 [1] [Naderiparizi et al. Towards Battery-Free HD Video Streaming. NSDI’18.](https://batteryfreevideo.cs.washington.edu/files/batteryfreevideo.pdf)<br>
 [2] [Rippel et al. Learned Video Compression. ICCV 2019.](https://arxiv.org/abs/1811.06981)<br>
