@@ -10,9 +10,22 @@ Multi-camera Networks research notes
 [5] [Zhang et al. Deep Learning in Mobile and Wireless Networking: A Survey. IEEE TRANS 2019.](https://arxiv.org/pdf/1803.04311.pdf)
 ## Researchers and labs
 ### Researchers
+1. [Ganesh Ananthanarayanan (MSR)](https://www.microsoft.com/en-us/research/people/ga/)
 ### Labs
+1. [Live Video Analytics (MSR)](https://www.microsoft.com/en-us/research/project/live-video-analytics/)
+2. [Information Processing Lab (Washington)](http://allison.ee.washington.edu/index.htm)
 ## Research opportunities
 ### Camera calibration
+[1] [Calibration Wizard: A Guidance System for Camera Calibration Based on Modeling Geometric and Corner Uncertainty. ICCV’19.](https://arxiv.org/pdf/1811.03264.pdf)
 ### AI applications (todo)
 #### MTMC tracking (todo)
 ### Video compression
+[1] [Naderiparizi et al. Towards Battery-Free HD Video Streaming. NSDI’18.](https://batteryfreevideo.cs.washington.edu/files/batteryfreevideo.pdf)<br>
+[2] [Rippel et al. Learned Video Compression. ICCV 2019.](https://arxiv.org/abs/1811.06981)<br>
+[3] [Djelouah et al. Neural Inter-Frame Compression for Video Coding. ICCV 2019.](http://openaccess.thecvf.com/content_ICCV_2019/papers/Djelouah_Neural_Inter-Frame_Compression_for_Video_Coding_ICCV_2019_paper.pdf)<br>
+[4] [Habibian et al. Video Compression with Rate-Distortion Autoencoders. ICCV 2019.](http://openaccess.thecvf.com/content_ICCV_2019/papers/Habibian_Video_Compression_With_Rate-Distortion_Autoencoders_ICCV_2019_paper.pdf)<br>
+[5] [Xu et al. Non-Local ConvLSTM for Video Compression Artifact Reduction. ICCV 2019.](https://arxiv.org/pdf/1910.12286.pdf)
+## Datasets
+1. [Duke MTMC](http://vision.cs.duke.edu/DukeMTMC/)
+2. [Nvidia AICity](https://www.aicitychallenge.org/)
+3. [EPFL WildTrack](https://www.epfl.ch/labs/cvlab/data/data-wildtrack/)
