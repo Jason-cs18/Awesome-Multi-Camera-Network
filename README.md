@@ -29,3 +29,4 @@ Multi-camera Networks research notes
 1. [Duke MTMC](http://vision.cs.duke.edu/DukeMTMC/)
 2. [Nvidia AICity](https://www.aicitychallenge.org/)
 3. [EPFL WildTrack](https://www.epfl.ch/labs/cvlab/data/data-wildtrack/)
+4. [CMU Panoptic Dataset](http://domedb.perception.cs.cmu.edu/index.html)
