@@ -18,6 +18,11 @@ Multi-camera Networks research notes
 ### Camera calibration
 [1] [Calibration Wizard: A Guidance System for Camera Calibration Based on Modeling Geometric and Corner Uncertainty. ICCV’19.](https://arxiv.org/pdf/1811.03264.pdf)
 ### AI applications (todo)
+#### Multi-View Collaboration (epipolar geometry)
+[1] [Yao et al. MONET: Multiview Semi-supervised Keypoint Detection via Epipolar Divergence. ICCV'19.](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yao_MONET_Multiview_Semi-Supervised_Keypoint_Detection_via_Epipolar_Divergence_ICCV_2019_paper.pdf)<br>
+[2] [Qiu et al. Cross View Fusion for 3D Human Pose Estimation. ICCV'19.](https://arxiv.org/pdf/1909.01203.pdf)<br>
+[3] [Yao et al. Multiview Cross-supervision for Semantic Segmentation. WACV'20.](https://arxiv.org/abs/1812.01738)<br>
+[4] [Zhang et al. Multiview Supervision By Registration. WACV'20.](https://arxiv.org/abs/1811.11251)
 #### MTMC tracking (todo)
 ### Video compression
 [1] [Naderiparizi et al. Towards Battery-Free HD Video Streaming. NSDI’18.](https://batteryfreevideo.cs.washington.edu/files/batteryfreevideo.pdf)<br>
