@@ -29,10 +29,11 @@ Multi-camera Networks research notes
 ##### Algorithms
 ### Video compression
 [1] [Naderiparizi et al. Towards Battery-Free HD Video Streaming. NSDI’18.](https://batteryfreevideo.cs.washington.edu/files/batteryfreevideo.pdf)<br>
-[2] [Rippel et al. Learned Video Compression. ICCV 2019.](https://arxiv.org/abs/1811.06981)<br>
-[3] [Djelouah et al. Neural Inter-Frame Compression for Video Coding. ICCV 2019.](http://openaccess.thecvf.com/content_ICCV_2019/papers/Djelouah_Neural_Inter-Frame_Compression_for_Video_Coding_ICCV_2019_paper.pdf)<br>
-[4] [Habibian et al. Video Compression with Rate-Distortion Autoencoders. ICCV 2019.](http://openaccess.thecvf.com/content_ICCV_2019/papers/Habibian_Video_Compression_With_Rate-Distortion_Autoencoders_ICCV_2019_paper.pdf)<br>
-[5] [Xu et al. Non-Local ConvLSTM for Video Compression Artifact Reduction. ICCV 2019.](https://arxiv.org/pdf/1910.12286.pdf)
+[2] [Baig et al. Jigsaw: Robust Live 4K Video Streaming. MobiCom'19.](http://www.cs.utexas.edu/~jianhe/jigsaw-mobicom19.pdf)<br>
+[3] [Rippel et al. Learned Video Compression. ICCV 2019.](https://arxiv.org/abs/1811.06981)<br>
+[4] [Djelouah et al. Neural Inter-Frame Compression for Video Coding. ICCV 2019.](http://openaccess.thecvf.com/content_ICCV_2019/papers/Djelouah_Neural_Inter-Frame_Compression_for_Video_Coding_ICCV_2019_paper.pdf)<br>
+[5] [Habibian et al. Video Compression with Rate-Distortion Autoencoders. ICCV 2019.](http://openaccess.thecvf.com/content_ICCV_2019/papers/Habibian_Video_Compression_With_Rate-Distortion_Autoencoders_ICCV_2019_paper.pdf)<br>
+[6] [Xu et al. Non-Local ConvLSTM for Video Compression Artifact Reduction. ICCV 2019.](https://arxiv.org/pdf/1910.12286.pdf)
 ## Datasets
 1. [Duke MTMC](http://vision.cs.duke.edu/DukeMTMC/)
 2. [Nvidia AICity](https://www.aicitychallenge.org/)
