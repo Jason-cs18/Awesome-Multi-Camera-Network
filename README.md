@@ -31,9 +31,10 @@ Multi-camera Networks research notes
 [1] [Qiu et al. Kestrel: Video Analytics for Augmented Multi-Camera Vehicle Tracking. IOTDI'18.](https://vision.ece.ucsb.edu/sites/default/files/publications/2018_iotdi.pdf)<br>
 [2] [Xu et al. STTR: A System for Tracking All Vehicles All the Time At the Edge of the Network. DEBS'18.](https://dl.acm.org/citation.cfm?id=3210291)<br>
 [3] [Gupta et al. FogStore: A Geo-Distributed Key-Value Store Guaranteeing Low Latency for Strongly Consistent Access. DEBS'18.](https://dl.acm.org/citation.cfm?id=3210297)<br>
-[4] [Jiang et al. Networked Cameras Are the New Big Data Clusters. MobiCom’19 Workshop.](https://www.microsoft.com/en-us/research/uploads/prod/2019/08/hotedgevideo19camera.pdf)<br>
-[5] [Emmons et al. Cracking open the DNN black-box: Video Analytics with DNNs across the Camera-Cloud Boundary. MobiCom’19 Workshop.](https://www.microsoft.com/en-us/research/uploads/prod/2019/08/Split-brain_HotEdgeVideo19.pdf)<br>
-[6] [Xu et al. Space-Time Vehicle Tracking at the Edge of the Network. MobiCom’19 Workshop.](https://dl.acm.org/citation.cfm?id=3356025)
+[4] [Hung et al. Wide-area Analytics with Multiple Resources. EuroSys'18.](http://minlanyu.seas.harvard.edu/talk/eurosys18.pdf)<br>
+[5] [Jiang et al. Networked Cameras Are the New Big Data Clusters. MobiCom’19 Workshop.](https://www.microsoft.com/en-us/research/uploads/prod/2019/08/hotedgevideo19camera.pdf)<br>
+[6] [Emmons et al. Cracking open the DNN black-box: Video Analytics with DNNs across the Camera-Cloud Boundary. MobiCom’19 Workshop.](https://www.microsoft.com/en-us/research/uploads/prod/2019/08/Split-brain_HotEdgeVideo19.pdf)<br>
+[7] [Xu et al. Space-Time Vehicle Tracking at the Edge of the Network. MobiCom’19 Workshop.](https://dl.acm.org/citation.cfm?id=3356025)
 ##### Algorithms (AI)
 [1] [Yu et al. The Solution Path Algorithm for Identity-Aware Multi-Object Tracking. CVPR'16.](https://zpascal.net/cvpr2016/Yu_The_Solution_Path_CVPR_2016_paper.pdf)<br>
 [2] [Chen et al. Domain Adaptive Faster R-CNN for Object Detection in the Wild. CVPR'18.](https://arxiv.org/pdf/1803.03243.pdf)<br>
