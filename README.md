@@ -6,8 +6,7 @@ Multi-camera Networks research notes
 [1] [M.Valera et al. Intelligent distributed surveillance systems: a review. 2005.](https://pdfs.semanticscholar.org/ce96/43fbfcb9c3156c7b26b5c92ec3bc67111202.pdf)<br>
 [2] [Wang et al. Intelligent multi-camera video surveillance: a review. 2012.](https://dl.acm.org/citation.cfm?id=2397216)<br>
 [3] [Ye et al. Wireless Video Surveillance: A Survey. 2013.](https://www.researchgate.net/publication/270767766_Wireless_Video_Surveillance_A_Survey)<br>
-[4] [Zhang et al. The Design and Implementation of a Wireless Video Surveillance System. MobiCom 2015.](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/08/Bahl-MobiCom-2015.pdf)<br>
-[5] [Zhang et al. Deep Learning in Mobile and Wireless Networking: A Survey. IEEE TRANS 2019.](https://arxiv.org/pdf/1803.04311.pdf)
+[4] [Zhang et al. Deep Learning in Mobile and Wireless Networking: A Survey. IEEE TRANS 2019.](https://arxiv.org/pdf/1803.04311.pdf)
 ## Researchers and labs
 ### Researchers
 1. [Ganesh Ananthanarayanan (MSR)](https://www.microsoft.com/en-us/research/people/ga/)
@@ -18,6 +17,10 @@ Multi-camera Networks research notes
 ### Camera calibration
 [1] [Calibration Wizard: A Guidance System for Camera Calibration Based on Modeling Geometric and Corner Uncertainty. ICCV’19.](https://arxiv.org/pdf/1811.03264.pdf)
 ### AI applications (todo)
+#### Surveilliance systems (reducing deployment cost)
+[1] [Zhang et al. The Design and Implementation of a Wireless Video Surveillance System. MobiCom 2015.](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/08/Bahl-MobiCom-2015.pdf)<br>
+[2] [Jain et al. Scaling Video Analytics Systems to Large Camera Deployments. HotMobile’19.](https://rtcl.eecs.umich.edu/yuanchao/paper/hotmobile19video.pdf)<br>
+[3] []
 #### Multi-View Collaboration (epipolar geometry)
 [1] [Yao et al. MONET: Multiview Semi-supervised Keypoint Detection via Epipolar Divergence. ICCV'19.](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yao_MONET_Multiview_Semi-Supervised_Keypoint_Detection_via_Epipolar_Divergence_ICCV_2019_paper.pdf)<br>
 [2] [Qiu et al. Cross View Fusion for 3D Human Pose Estimation. ICCV'19.](https://arxiv.org/pdf/1909.01203.pdf)<br>
@@ -25,8 +28,15 @@ Multi-camera Networks research notes
 [4] [Zhang et al. Multiview Supervision By Registration. WACV'20.](https://arxiv.org/abs/1811.11251)
 #### MTMC tracking (todo)
 ##### Deployment
-[1] [Qiu et al. Kestrel: Video Analytics for Augmented Multi-Camera Vehicle Tracking. IOTDI'18.](https://vision.ece.ucsb.edu/sites/default/files/publications/2018_iotdi.pdf)
-##### Algorithms
+[1] [Qiu et al. Kestrel: Video Analytics for Augmented Multi-Camera Vehicle Tracking. IOTDI'18.](https://vision.ece.ucsb.edu/sites/default/files/publications/2018_iotdi.pdf)<br>
+[2] [Xu et al. STTR: A System for Tracking All Vehicles All the Time At the Edge of the Network. DEBS'18.](https://dl.acm.org/citation.cfm?id=3210291)<br>
+[3] [Gupta et al. FogStore: A Geo-Distributed Key-Value Store Guaranteeing Low Latency for Strongly Consistent Access. DEBS'18.](https://dl.acm.org/citation.cfm?id=3210297)<br>
+[4] [Jiang et al. Networked Cameras Are the New Big Data Clusters. MobiCom’19 Workshop.](https://www.microsoft.com/en-us/research/uploads/prod/2019/08/hotedgevideo19camera.pdf)<br>
+[5] [Emmons et al. Cracking open the DNN black-box: Video Analytics with DNNs across the Camera-Cloud Boundary. MobiCom’19 Workshop.](https://www.microsoft.com/en-us/research/uploads/prod/2019/08/Split-brain_HotEdgeVideo19.pdf)<br>
+[6] [Xu et al. Space-Time Vehicle Tracking at the Edge of the Network. MobiCom’19 Workshop.](https://dl.acm.org/citation.cfm?id=3356025)
+##### Algorithms (AI)
+[1] [Feng et al. Challenges on Large Scale Surveillance Video Analysis. CVPR'18 Workshop.](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Feng_Challenges_on_Large_CVPR_2018_paper.pdf)<br>
+[2] [Zhu et al. Intra-Camera Supervised Person Re-Identification: A New Benchmark. ICCV'19 Workshop.](http://openaccess.thecvf.com/content_ICCVW_2019/papers/RLQ/Zhu_Intra-Camera_Supervised_Person_Re-Identification_A_New_Benchmark_ICCVW_2019_paper.pdf)
 ### Video compression
 [1] [Naderiparizi et al. Towards Battery-Free HD Video Streaming. NSDI’18.](https://batteryfreevideo.cs.washington.edu/files/batteryfreevideo.pdf)<br>
 [2] [Baig et al. Jigsaw: Robust Live 4K Video Streaming. MobiCom'19.](http://www.cs.utexas.edu/~jianhe/jigsaw-mobicom19.pdf)<br>
