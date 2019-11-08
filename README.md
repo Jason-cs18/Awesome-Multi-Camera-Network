@@ -20,7 +20,6 @@ Multi-camera Networks research notes
 #### Surveilliance systems (reducing deployment cost)
 [1] [Zhang et al. The Design and Implementation of a Wireless Video Surveillance System. MobiCom 2015.](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/08/Bahl-MobiCom-2015.pdf)<br>
 [2] [Jain et al. Scaling Video Analytics Systems to Large Camera Deployments. HotMobile’19.](https://rtcl.eecs.umich.edu/yuanchao/paper/hotmobile19video.pdf)<br>
-[3] []
 #### Multi-View Collaboration (epipolar geometry)
 [1] [Yao et al. MONET: Multiview Semi-supervised Keypoint Detection via Epipolar Divergence. ICCV'19.](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yao_MONET_Multiview_Semi-Supervised_Keypoint_Detection_via_Epipolar_Divergence_ICCV_2019_paper.pdf)<br>
 [2] [Qiu et al. Cross View Fusion for 3D Human Pose Estimation. ICCV'19.](https://arxiv.org/pdf/1909.01203.pdf)<br>
@@ -35,8 +34,12 @@ Multi-camera Networks research notes
 [5] [Emmons et al. Cracking open the DNN black-box: Video Analytics with DNNs across the Camera-Cloud Boundary. MobiCom’19 Workshop.](https://www.microsoft.com/en-us/research/uploads/prod/2019/08/Split-brain_HotEdgeVideo19.pdf)<br>
 [6] [Xu et al. Space-Time Vehicle Tracking at the Edge of the Network. MobiCom’19 Workshop.](https://dl.acm.org/citation.cfm?id=3356025)
 ##### Algorithms (AI)
-[1] [Feng et al. Challenges on Large Scale Surveillance Video Analysis. CVPR'18 Workshop.](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Feng_Challenges_on_Large_CVPR_2018_paper.pdf)<br>
-[2] [Zhu et al. Intra-Camera Supervised Person Re-Identification: A New Benchmark. ICCV'19 Workshop.](http://openaccess.thecvf.com/content_ICCVW_2019/papers/RLQ/Zhu_Intra-Camera_Supervised_Person_Re-Identification_A_New_Benchmark_ICCVW_2019_paper.pdf)
+[1] [Yu et al. The Solution Path Algorithm for Identity-Aware Multi-Object Tracking. CVPR'16.](https://zpascal.net/cvpr2016/Yu_The_Solution_Path_CVPR_2016_paper.pdf)<br>
+[2] [Wang et al. Resource Aware Person Re-identification across Multiple Resolutions. CVPR'18.](http://home.bharathh.info/pubs/pdfs/WangCVPR2018b.pdf)<br>
+[3] [Ristani et al. Features for Multi-Target Multi-Camera Tracking and Re-Identification. CVPR'18.](http://zpascal.net/cvpr2018/Ristani_Features_for_Multi-Target_CVPR_2018_paper.pdf)<br>
+[4] [Feng et al. Challenges on Large Scale Surveillance Video Analysis. CVPR'18 Workshop.](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Feng_Challenges_on_Large_CVPR_2018_paper.pdf)<br>
+[5] [Qi et al. A Novel Unsupervised Camera-aware Domain Adaptation Framework for Person Re-identification. ICCV’19.](http://openaccess.thecvf.com/content_ICCV_2019/papers/Qi_A_Novel_Unsupervised_Camera-Aware_Domain_Adaptation_Framework_for_Person_Re-Identification_ICCV_2019_paper.pdf)<br>
+[6] [Zhu et al. Intra-Camera Supervised Person Re-Identification: A New Benchmark. ICCV'19 Workshop.](http://openaccess.thecvf.com/content_ICCVW_2019/papers/RLQ/Zhu_Intra-Camera_Supervised_Person_Re-Identification_A_New_Benchmark_ICCVW_2019_paper.pdf)<br>
 ### Video compression
 [1] [Naderiparizi et al. Towards Battery-Free HD Video Streaming. NSDI’18.](https://batteryfreevideo.cs.washington.edu/files/batteryfreevideo.pdf)<br>
 [2] [Baig et al. Jigsaw: Robust Live 4K Video Streaming. MobiCom'19.](http://www.cs.utexas.edu/~jianhe/jigsaw-mobicom19.pdf)<br>
@@ -46,6 +49,6 @@ Multi-camera Networks research notes
 [6] [Xu et al. Non-Local ConvLSTM for Video Compression Artifact Reduction. ICCV 2019.](https://arxiv.org/pdf/1910.12286.pdf)
 ## Datasets
 1. [Duke MTMC](http://vision.cs.duke.edu/DukeMTMC/)
-2. [Nvidia AICity](https://www.aicitychallenge.org/)
+2. [Nvidia CityFlow](https://www.aicitychallenge.org/)
 3. [EPFL WildTrack](https://www.epfl.ch/labs/cvlab/data/data-wildtrack/)
 4. [CMU Panoptic Dataset](http://domedb.perception.cs.cmu.edu/index.html)
