@@ -37,7 +37,6 @@ Multi-camera Networks research notes
 [7] [Xu et al. Space-Time Vehicle Tracking at the Edge of the Network. MobiCom’19 Workshop.](https://dl.acm.org/citation.cfm?id=3356025)
 ##### Algorithms (AI)
 [1] [Yu et al. The Solution Path Algorithm for Identity-Aware Multi-Object Tracking. CVPR'16.](https://zpascal.net/cvpr2016/Yu_The_Solution_Path_CVPR_2016_paper.pdf)<br>
-[2] [Chen et al. Domain Adaptive Faster R-CNN for Object Detection in the Wild. CVPR'18.](https://arxiv.org/pdf/1803.03243.pdf)<br>
 [2] [Wang et al. Resource Aware Person Re-identification across Multiple Resolutions. CVPR'18.](http://home.bharathh.info/pubs/pdfs/WangCVPR2018b.pdf)<br>
 [3] [Ristani et al. Features for Multi-Target Multi-Camera Tracking and Re-Identification. CVPR'18.](http://zpascal.net/cvpr2018/Ristani_Features_for_Multi-Target_CVPR_2018_paper.pdf)<br>
 [4] [Feng et al. Challenges on Large Scale Surveillance Video Analysis. CVPR'18 Workshop.](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Feng_Challenges_on_Large_CVPR_2018_paper.pdf)<br>
