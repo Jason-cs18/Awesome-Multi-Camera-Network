@@ -46,8 +46,9 @@ Multi-camera Networks research notes
 [4] [Wang et al. Resource Aware Person Re-identification across Multiple Resolutions. CVPR'18.](http://home.bharathh.info/pubs/pdfs/WangCVPR2018b.pdf)<br>
 [5] [Gong et al. Improving Multi-stage Object Detection via Iterative Proposal Refinement. BMVC'19.](https://bmvc2019.org/wp-content/uploads/papers/0545-paper.pdf)<br>
 [6] [Luo et al. Detect or Track: Towards Cost-Effective Video Object Detection/Tracking. AAAI'19.](https://www.microsoft.com/en-us/research/uploads/prod/2019/02/AAAI-LuoH.pdf)<br>
-[7] [Qi et al. A Novel Unsupervised Camera-aware Domain Adaptation Framework for Person Re-identification. ICCV’19.](http://openaccess.thecvf.com/content_ICCV_2019/papers/Qi_A_Novel_Unsupervised_Camera-Aware_Domain_Adaptation_Framework_for_Person_Re-Identification_ICCV_2019_paper.pdf)<br>
-[8] [Zhu et al. Intra-Camera Supervised Person Re-Identification: A New Benchmark. ICCV'19 Workshop.](http://openaccess.thecvf.com/content_ICCVW_2019/papers/RLQ/Zhu_Intra-Camera_Supervised_Person_Re-Identification_A_New_Benchmark_ICCVW_2019_paper.pdf)
+[7] [He et al. Bounding Box Regression with Uncertainty for Accurate Object Detection. CVPR'19.](http://openaccess.thecvf.com/content_CVPR_2019/papers/He_Bounding_Box_Regression_With_Uncertainty_for_Accurate_Object_Detection_CVPR_2019_paper.pdf)<br>
+[8] [Qi et al. A Novel Unsupervised Camera-aware Domain Adaptation Framework for Person Re-identification. ICCV’19.](http://openaccess.thecvf.com/content_ICCV_2019/papers/Qi_A_Novel_Unsupervised_Camera-Aware_Domain_Adaptation_Framework_for_Person_Re-Identification_ICCV_2019_paper.pdf)<br>
+[9] [Zhu et al. Intra-Camera Supervised Person Re-Identification: A New Benchmark. ICCV'19 Workshop.](http://openaccess.thecvf.com/content_ICCVW_2019/papers/RLQ/Zhu_Intra-Camera_Supervised_Person_Re-Identification_A_New_Benchmark_ICCVW_2019_paper.pdf)
 ### Video compression
 [1] [Naderiparizi et al. Towards Battery-Free HD Video Streaming. NSDI’18.](https://batteryfreevideo.cs.washington.edu/files/batteryfreevideo.pdf)<br>
 [2] [Baig et al. Jigsaw: Robust Live 4K Video Streaming. MobiCom'19.](http://www.cs.utexas.edu/~jianhe/jigsaw-mobicom19.pdf)<br>
