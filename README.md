@@ -39,7 +39,7 @@ Multi-camera Networks research notes
 [1] [Yu et al. The Solution Path Algorithm for Identity-Aware Multi-Object Tracking. CVPR'16.](https://zpascal.net/cvpr2016/Yu_The_Solution_Path_CVPR_2016_paper.pdf)<br>
 [2] [Ristani et al. Features for Multi-Target Multi-Camera Tracking and Re-Identification. CVPR'18.](http://zpascal.net/cvpr2018/Ristani_Features_for_Multi-Target_CVPR_2018_paper.pdf)<br>
 [3] [Feng et al. Challenges on Large Scale Surveillance Video Analysis. CVPR'18 Workshop.](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Feng_Challenges_on_Large_CVPR_2018_paper.pdf)
-##### Algirithms (collaborative learning between reID and detection)
+##### Algorithms (collaborative learning between reID and detection)
 [1] [Gidaris et al. LocNet: Improving Localization Accuracy for Object Detection. CVPR'16.](https://www.zpascal.net/cvpr2016/Gidaris_LocNet_Improving_Localization_CVPR_2016_paper.pdf)<br>
 [2] [Li et al. Video Object Segmentation with Joint Re-identification and Attention-Aware Mask Propagation. ECCV'18.](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xiaoxiao_Li_Video_Object_Segmentation_ECCV_2018_paper.pdf)<br>
 [3] [Huang et al. Adversarially Occluded Samples for Person Re-identification. CVPR'18.](http://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_Adversarially_Occluded_Samples_CVPR_2018_paper.pdf)<br>
