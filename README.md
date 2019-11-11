@@ -60,7 +60,8 @@ Multi-camera Networks research notes
 [5] [Habibian et al. Video Compression with Rate-Distortion Autoencoders. ICCV 2019.](http://openaccess.thecvf.com/content_ICCV_2019/papers/Habibian_Video_Compression_With_Rate-Distortion_Autoencoders_ICCV_2019_paper.pdf)<br>
 [6] [Xu et al. Non-Local ConvLSTM for Video Compression Artifact Reduction. ICCV 2019.](https://arxiv.org/pdf/1910.12286.pdf)
 ## Datasets
-1. [Duke MTMC](http://vision.cs.duke.edu/DukeMTMC/)
-2. [Nvidia CityFlow](https://www.aicitychallenge.org/)
-3. [EPFL WildTrack](https://www.epfl.ch/labs/cvlab/data/data-wildtrack/)
-4. [CMU Panoptic Dataset](http://domedb.perception.cs.cmu.edu/index.html)
+1. [Duke MTMC (8 cameras)](http://vision.cs.duke.edu/DukeMTMC/)
+2. [Nvidia CityFlow (>40 cameras)](https://www.aicitychallenge.org/)
+3. [EPFL WildTrack (7 cameras)](https://www.epfl.ch/labs/cvlab/data/data-wildtrack/)
+4. [EPFL-RLC (3 cameras)](https://www.epfl.ch/labs/cvlab/data/data-rlc/)
+5. [CMU Panoptic Dataset (>50 cameras)](http://domedb.perception.cs.cmu.edu/index.html)
