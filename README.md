@@ -22,10 +22,13 @@ Multi-camera Networks research notes
 [2] [Jain et al. Scaling Video Analytics Systems to Large Camera Deployments. HotMobile’19.](https://rtcl.eecs.umich.edu/yuanchao/paper/hotmobile19video.pdf)<br>
 #### Multi-View Collaboration (epipolar geometry)
 [1] [Kocabas et al. Self-Supervised Learning of 3D Human Pose using Multi-view Geometry. CVPR'19.](https://arxiv.org/abs/1903.02330)<br>
-[1] [Yao et al. MONET: Multiview Semi-supervised Keypoint Detection via Epipolar Divergence. ICCV'19.](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yao_MONET_Multiview_Semi-Supervised_Keypoint_Detection_via_Epipolar_Divergence_ICCV_2019_paper.pdf)<br>
-[2] [Qiu et al. Cross View Fusion for 3D Human Pose Estimation. ICCV'19.](https://arxiv.org/pdf/1909.01203.pdf)<br>
-[3] [Yao et al. Multiview Cross-supervision for Semantic Segmentation. WACV'20.](https://arxiv.org/abs/1812.01738)<br>
-[4] [Zhang et al. Multiview Supervision By Registration. WACV'20.](https://arxiv.org/abs/1811.11251)
+[2] [Yao et al. MONET: Multiview Semi-supervised Keypoint Detection via Epipolar Divergence. ICCV'19.](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yao_MONET_Multiview_Semi-Supervised_Keypoint_Detection_via_Epipolar_Divergence_ICCV_2019_paper.pdf)<br>
+[3] [Qiu et al. Cross View Fusion for 3D Human Pose Estimation. ICCV'19.](https://arxiv.org/pdf/1909.01203.pdf)<br>
+[4] [Brickwedde et al. Mono-SF: Multi-View Geometry Meets Single-View Depth for Monocular Scene Flow Estimation of Dynamic Traffic Scenes. ICCV'19.](http://openaccess.thecvf.com/content_ICCV_2019/papers/Brickwedde_Mono-SF_Multi-View_Geometry_Meets_Single-View_Depth_for_Monocular_Scene_Flow_ICCV_2019_paper.pdf)<br>
+[5] [Trinidad et al. Multi-view Image Fusion. ICCV'19.](http://openaccess.thecvf.com/content_ICCV_2019/papers/Trinidad_Multi-View_Image_Fusion_ICCV_2019_paper.pdf)<br>
+[6] [Nassar et al. Simultaneous multi-view instance detection with learned geometric soft-constraints. ICCV'19.](http://openaccess.thecvf.com/content_ICCV_2019/papers/Nassar_Simultaneous_Multi-View_Instance_Detection_With_Learned_Geometric_Soft-Constraints_ICCV_2019_paper.pdf)<br>
+[7] [Yao et al. Multiview Cross-supervision for Semantic Segmentation. WACV'20.](https://arxiv.org/abs/1812.01738)<br>
+[8] [Zhang et al. Multiview Supervision By Registration. WACV'20.](https://arxiv.org/abs/1811.11251)
 #### MTMC tracking (todo)
 ##### Deployment
 [1] [Qiu et al. Kestrel: Video Analytics for Augmented Multi-Camera Vehicle Tracking. IOTDI'18.](https://vision.ece.ucsb.edu/sites/default/files/publications/2018_iotdi.pdf)<br>
