@@ -10,6 +10,7 @@ Multi-camera Networks research notes
 ## Researchers and labs
 ### Researchers
 1. [Ganesh Ananthanarayanan (MSR)](https://www.microsoft.com/en-us/research/people/ga/)
+2. [Andrea Cavallaro (QMUL)](http://www.eecs.qmul.ac.uk/~andrea/)
 ### Labs
 1. [Live Video Analytics (MSR)](https://www.microsoft.com/en-us/research/project/live-video-analytics/)
 2. [Information Processing Lab (Washington)](http://allison.ee.washington.edu/index.htm)
