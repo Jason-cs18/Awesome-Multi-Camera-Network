@@ -68,3 +68,5 @@ Multi-camera Networks research notes
 3. [EPFL WildTrack (7 cameras)](https://www.epfl.ch/labs/cvlab/data/data-wildtrack/)
 4. [EPFL-RLC (3 cameras)](https://www.epfl.ch/labs/cvlab/data/data-rlc/)
 5. [CMU Panoptic Dataset (>50 cameras)](http://domedb.perception.cs.cmu.edu/index.html)
+## Useful resources
+1. [Awesome reID dataset](https://github.com/NEU-Gou/awesome-reid-dataset)
