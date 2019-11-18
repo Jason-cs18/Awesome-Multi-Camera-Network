@@ -33,6 +33,8 @@ Multi-camera Networks research notes
 #### Efficient Object Detection (popular in autonomous cars or surveilliance cameras)
 [1] [Jiwoong et al. Gaussian YOLOv3: An Accurate and Fast Object Detector Using Localization Uncertainty for Autonomous Driving. In ICCV'19.](http://openaccess.thecvf.com/content_ICCV_2019/papers/Choi_Gaussian_YOLOv3_An_Accurate_and_Fast_Object_Detector_Using_Localization_ICCV_2019_paper.pdf) [Public Code](https://github.com/jwchoi384/Gaussian_YOLOv3) [Note](https://github.com/YanLu-nyu/Awesome-Multi-Camera-Network/blob/master/Efficient_Object_Detection.md) <br>
 [2] [Wang et al. Learning Rich Features at High-Speed for Single-Shot Object Detection. ICCV'19.](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Learning_Rich_Features_at_High-Speed_for_Single-Shot_Object_Detection_ICCV_2019_paper.pdf) [Public Code](https://github.com/vaesl/LRF-Net) [Note](https://github.com/YanLu-nyu/Awesome-Multi-Camera-Network/blob/master/Efficient_Object_Detection.md)
+#### Automatic Labeling (object detection and reID)
+[1] [H. Aghdam et al. Active Learning for Deep Detection Neural Networks. In ICCV'19.](http://openaccess.thecvf.com/content_ICCV_2019/papers/Aghdam_Active_Learning_for_Deep_Detection_Neural_Networks_ICCV_2019_paper.pdf) [Public Code](https://gitlab.com/haghdam/deep_active_learning) [Note]
 #### MTMC tracking (todo)
 ##### Deployment
 [1] [Qiu et al. Kestrel: Video Analytics for Augmented Multi-Camera Vehicle Tracking. In IOTDI'18.](https://vision.ece.ucsb.edu/sites/default/files/publications/2018_iotdi.pdf)<br>
