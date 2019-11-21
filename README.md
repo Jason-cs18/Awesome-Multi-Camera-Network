@@ -1,5 +1,5 @@
 # Multi-Camera Networks
-Multi-camera Networks research notes. Inspired by book, I collect paper from three topics in research opportunites: 
+Multi-camera Networks research notes.<br> Inspired by book, I collect paper from three topics in research opportunites: 
 1. Camera Calibration. 
 2. AI Applications (surveilliance systems, multi-view collaboration, efficient object detection, automatic labeling, **MTMC tracking**). 
 3. Video Compression (for efficient communication). 
