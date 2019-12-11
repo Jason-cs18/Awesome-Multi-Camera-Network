@@ -4,7 +4,8 @@ Multi-camera Networks research notes.<br> Inspired by book, I collect paper from
 2. AI Applications (surveilliance systems, multi-view collaboration, efficient object detection, automatic labeling, **MTMC tracking**). 
 3. Video Compression (for efficient communication). 
 ## Book
-[Multi-Camera Networks: Principles and Applications. 2005.](https://dl.acm.org/citation.cfm?id=1643746)
+1. [Multi-Camera Networks: Principles and Applications. 2005.](https://dl.acm.org/citation.cfm?id=1643746)
+2. [Camera Networks: The Acquisition and Analysis of Videos over Wide Areas (Synthesis Lectures on Computer Vision). 2012.](https://epdf.pub/camera-networks-the-acquisition-and-analysis-of-videos-overwide-areas.html)
 ## Survey
 [1] [M.Valera et al. Intelligent distributed surveillance systems: a review. 2005.](https://pdfs.semanticscholar.org/ce96/43fbfcb9c3156c7b26b5c92ec3bc67111202.pdf)<br>
 [2] [Wang et al. Intelligent multi-camera video surveillance: a review. 2012.](https://dl.acm.org/citation.cfm?id=2397216)<br>
@@ -14,9 +15,11 @@ Multi-camera Networks research notes.<br> Inspired by book, I collect paper from
 ### Researchers
 1. [Ganesh Ananthanarayanan (MSR)](https://www.microsoft.com/en-us/research/people/ga/)
 2. [Andrea Cavallaro (QMUL)](http://www.eecs.qmul.ac.uk/~andrea/)
+3. [Amit K. Roy-Chowdhury (UC Riverside)](https://vcg.engr.ucr.edu/people/amit-roy-chowdhury)
 ### Labs
 1. [Live Video Analytics (MSR)](https://www.microsoft.com/en-us/research/project/live-video-analytics/)
 2. [Information Processing Lab (Washington)](http://allison.ee.washington.edu/index.htm)
+3. [Video Computing Group (UC Riverside)](https://vcg.engr.ucr.edu/)
 ## Research opportunities
 ### Camera calibration
 [1] [Calibration Wizard: A Guidance System for Camera Calibration Based on Modeling Geometric and Corner Uncertainty. In ICCV'19.](https://arxiv.org/pdf/1811.03264.pdf)
