@@ -24,6 +24,7 @@ Multi-camera Networks research notes.<br> Inspired by book, I collect paper from
 #### Surveilliance systems (reducing deployment cost)
 [1] [Zhang et al. The Design and Implementation of a Wireless Video Surveillance System. In MobiCom'15.](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/08/Bahl-MobiCom-2015.pdf)<br>
 [2] [Jain et al. Scaling Video Analytics Systems to Large Camera Deployments. In HotMobile'19.](https://rtcl.eecs.umich.edu/yuanchao/paper/hotmobile19video.pdf)<br>
+[3] [Jain et al. ReXCam: Resource-Efficient, Cross-Camera Video Analytics at Scale. In arXiv.](https://arxiv.org/abs/1811.01268)
 #### Multi-View Collaboration (epipolar geometry)
 [1] [Kocabas et al. Self-Supervised Learning of 3D Human Pose using Multi-view Geometry. In CVPR'19.](https://arxiv.org/abs/1903.02330)<br>
 [2] [Yao et al. MONET: Multiview Semi-supervised Keypoint Detection via Epipolar Divergence. In ICCV'19.](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yao_MONET_Multiview_Semi-Supervised_Keypoint_Detection_via_Epipolar_Divergence_ICCV_2019_paper.pdf)<br>
