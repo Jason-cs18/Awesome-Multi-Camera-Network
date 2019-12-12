@@ -20,6 +20,8 @@ Multi-camera Networks research notes.<br> Inspired by book, I collect paper from
 1. [Live Video Analytics (MSR)](https://www.microsoft.com/en-us/research/project/live-video-analytics/)
 2. [Information Processing Lab (Washington)](http://allison.ee.washington.edu/index.htm)
 3. [Video Computing Group (UC Riverside)](https://vcg.engr.ucr.edu/)
+4. [Vision Research Lab (UCSB)](https://vision.ece.ucsb.edu/)
+5. [Audio-visual Signal processing and Communication Systems (Berkeley)](https://people.eecs.berkeley.edu/~kannanr/about.html)
 ## Research opportunities
 ### Camera calibration
 [1] [Calibration Wizard: A Guidance System for Camera Calibration Based on Modeling Geometric and Corner Uncertainty. In ICCV'19.](https://arxiv.org/pdf/1811.03264.pdf)
