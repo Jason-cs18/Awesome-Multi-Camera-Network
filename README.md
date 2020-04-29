@@ -16,6 +16,7 @@ Multi-camera Networks research notes.<br> Inspired by book, I collect paper from
 1. [Ganesh Ananthanarayanan (MSR)](https://www.microsoft.com/en-us/research/people/ga/)
 2. [Andrea Cavallaro (QMUL)](http://www.eecs.qmul.ac.uk/~andrea/)
 3. [Amit K. Roy-Chowdhury (UC Riverside)](https://vcg.engr.ucr.edu/people/amit-roy-chowdhury)
+4. [Jenq-Neng Hwang (UW)](https://people.ece.uw.edu/hwang/)
 ### Labs
 1. [Live Video Analytics (MSR)](https://www.microsoft.com/en-us/research/project/live-video-analytics/)
 2. [Information Processing Lab (Washington)](http://allison.ee.washington.edu/index.htm)
@@ -66,7 +67,8 @@ Multi-camera Networks research notes.<br> Inspired by book, I collect paper from
 [6] [Luo et al. Detect or Track: Towards Cost-Effective Video Object Detection/Tracking. In AAAI'19.](https://www.microsoft.com/en-us/research/uploads/prod/2019/02/AAAI-LuoH.pdf)<br>
 [7] [He et al. Bounding Box Regression with Uncertainty for Accurate Object Detection. In CVPR'19.](http://openaccess.thecvf.com/content_CVPR_2019/papers/He_Bounding_Box_Regression_With_Uncertainty_for_Accurate_Object_Detection_CVPR_2019_paper.pdf)<br>
 [8] [Qi et al. A Novel Unsupervised Camera-aware Domain Adaptation Framework for Person Re-identification. In ICCV'19.](http://openaccess.thecvf.com/content_ICCV_2019/papers/Qi_A_Novel_Unsupervised_Camera-Aware_Domain_Adaptation_Framework_for_Person_Re-Identification_ICCV_2019_paper.pdf)<br>
-[9] [Zhu et al. Intra-Camera Supervised Person Re-Identification: A New Benchmark. In ICCV'19 workshop.](http://openaccess.thecvf.com/content_ICCVW_2019/papers/RLQ/Zhu_Intra-Camera_Supervised_Person_Re-Identification_A_New_Benchmark_ICCVW_2019_paper.pdf)
+[9] [Zhu et al. Intra-Camera Supervised Person Re-Identification: A New Benchmark. In ICCV'19 workshop.](http://openaccess.thecvf.com/content_ICCVW_2019/papers/RLQ/Zhu_Intra-Camera_Supervised_Person_Re-Identification_A_New_Benchmark_ICCVW_2019_paper.pdf)<br>
+[10] [Wang et al. Exploit the Connectivity: Multi-Object Tracking with TrackletNet. In MM'19.](https://dl.acm.org/doi/10.1145/3343031.3350853)
 ### Video compression
 [1] [Naderiparizi et al. Towards Battery-Free HD Video Streaming. In NSDI’18.](https://batteryfreevideo.cs.washington.edu/files/batteryfreevideo.pdf)<br>
 [2] [Baig et al. Jigsaw: Robust Live 4K Video Streaming. In MobiCom'19.](http://www.cs.utexas.edu/~jianhe/jigsaw-mobicom19.pdf)<br>
