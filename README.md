@@ -1,7 +1,7 @@
 # Multi-Camera Networks
 Multi-camera Networks research notes.<br> Inspired by book, I collect paper from three topics in research opportunities: 
 1. Camera Calibration. 
-2. AI Applications (surveilliance systems, multi-view collaboration, efficient object detection, automatic labeling, **MTMC tracking**). 
+2. AI Applications (surveilliance systems, multi-view collaboration, **mu**, efficient object detection, automatic labeling, **MTMC tracking**). 
 3. Video Compression (for efficient communication). 
 ## Book
 1. [Multi-Camera Networks: Principles and Applications. 2005.](https://dl.acm.org/citation.cfm?id=1643746)
@@ -42,6 +42,9 @@ Multi-camera Networks research notes.<br> Inspired by book, I collect paper from
 [6] [Nassar et al. Simultaneous multi-view instance detection with learned geometric soft-constraints. In ICCV'19.](http://openaccess.thecvf.com/content_ICCV_2019/papers/Nassar_Simultaneous_Multi-View_Instance_Detection_With_Learned_Geometric_Soft-Constraints_ICCV_2019_paper.pdf)<br>
 [7] [Yao et al. Multiview Cross-supervision for Semantic Segmentation. In WACV'20.](https://arxiv.org/abs/1812.01738)<br>
 [8] [Zhang et al. Multiview Supervision By Registration. In WACV'20.](https://arxiv.org/abs/1811.11251)
+#### Multi-Camera Collaboration (exploring collaboration in a large camera networks, such as drone networks)
+[1] [Liu et al. Who2com: Collaborative Perception via Learnable Handshake Communication. In ICRA'20.](https://arxiv.org/abs/2003.09575)
+[2] [Liu et al. When2com: Multi-Agent Perception via Communication Graph Grouping. In CVPR'20.](http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_When2com_Multi-Agent_Perception_via_Communication_Graph_Grouping_CVPR_2020_paper.pdf)
 #### Efficient Object Detection (popular in autonomous cars or surveilliance cameras)
 [1] [Jiwoong et al. Gaussian YOLOv3: An Accurate and Fast Object Detector Using Localization Uncertainty for Autonomous Driving. In ICCV'19.](http://openaccess.thecvf.com/content_ICCV_2019/papers/Choi_Gaussian_YOLOv3_An_Accurate_and_Fast_Object_Detector_Using_Localization_ICCV_2019_paper.pdf) [Public Code](https://github.com/jwchoi384/Gaussian_YOLOv3) [Note](https://github.com/YanLu-nyu/Awesome-Multi-Camera-Network/blob/master/Efficient_Object_Detection.md) <br>
 [2] [Wang et al. Learning Rich Features at High-Speed for Single-Shot Object Detection. ICCV'19.](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Learning_Rich_Features_at_High-Speed_for_Single-Shot_Object_Detection_ICCV_2019_paper.pdf) [Public Code](https://github.com/vaesl/LRF-Net) [Note](https://github.com/YanLu-nyu/Awesome-Multi-Camera-Network/blob/master/Efficient_Object_Detection.md)
