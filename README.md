@@ -91,5 +91,4 @@ Multi-camera Networks research notes.<br> Inspired by book, I collect papers fro
 4. [EPFL-RLC (3 cameras, overlapping)](https://www.epfl.ch/labs/cvlab/data/data-rlc/)
 5. [CMU Panoptic Dataset (>50 cameras, overlapping)](http://domedb.perception.cs.cmu.edu/index.html)
 6. [University of Illinois STREETS (100 cameras, non-overlapping)](https://databank.illinois.edu/datasets/IDB-3671567)
-## Useful resources
-1. [Awesome reID dataset](https://github.com/NEU-Gou/awesome-reid-dataset)
+7. [Awesome reID dataset](https://github.com/NEU-Gou/awesome-reid-dataset)
