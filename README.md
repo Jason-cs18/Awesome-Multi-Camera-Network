@@ -1,8 +1,9 @@
 # Multi-Camera Networks
-Multi-camera Networks research notes.<br> Inspired by book, I collect paper from three topics in research opportunities: 
+Multi-camera Networks research notes.<br> Inspired by book, I collect papers from four topics in research opportunities: 
 1. Camera Calibration. 
 2. AI Applications (surveilliance systems, multi-view collaboration, **multi-camera collaboration**, efficient object detection, automatic labeling, **MTMC tracking**). 
 3. Video Compression (for efficient communication). 
+4. Database (for fast indexing).
 ## Book
 1. [Multi-Camera Networks: Principles and Applications. 2005.](https://dl.acm.org/citation.cfm?id=1643746)
 2. [Camera Networks: The Acquisition and Analysis of Videos over Wide Areas (Synthesis Lectures on Computer Vision). 2012.](https://epdf.pub/camera-networks-the-acquisition-and-analysis-of-videos-overwide-areas.html)
@@ -81,6 +82,8 @@ Multi-camera Networks research notes.<br> Inspired by book, I collect paper from
 [4] [Djelouah et al. Neural Inter-Frame Compression for Video Coding. In ICCV 2019.](http://openaccess.thecvf.com/content_ICCV_2019/papers/Djelouah_Neural_Inter-Frame_Compression_for_Video_Coding_ICCV_2019_paper.pdf)<br>
 [5] [Habibian et al. Video Compression with Rate-Distortion Autoencoders. In ICCV 2019.](http://openaccess.thecvf.com/content_ICCV_2019/papers/Habibian_Video_Compression_With_Rate-Distortion_Autoencoders_ICCV_2019_paper.pdf)<br>
 [6] [Xu et al. Non-Local ConvLSTM for Video Compression Artifact Reduction. In ICCV 2019.](https://arxiv.org/pdf/1910.12286.pdf)
+### Database
+[1] [Saurez et al. A drop-in middleware for serializable DB clustering across geo-distributed sites. In VLDB'20.](https://dl.acm.org/doi/10.14778/3415478.3415555)
 ## Datasets
 1. [Duke MTMC (8 cameras, non-overlapping)](http://vision.cs.duke.edu/DukeMTMC/)
 2. [Nvidia CityFlow (>40 cameras, overlapping and non-overlapping)](https://www.aicitychallenge.org/)
