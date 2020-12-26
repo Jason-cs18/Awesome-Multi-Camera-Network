@@ -15,10 +15,11 @@ Multi-camera Networks research notes.<br> Inspired by book, I collect papers fro
 ## Researchers and labs
 ### Researchers
 1. [Ganesh Ananthanarayanan (MSR)](https://www.microsoft.com/en-us/research/people/ga/)
-2. [Andrea Cavallaro (QMUL)](http://www.eecs.qmul.ac.uk/~andrea/)
-3. [Amit K. Roy-Chowdhury (UC Riverside)](https://vcg.engr.ucr.edu/people/amit-roy-chowdhury)
-4. [Jenq-Neng Hwang (UW)](https://people.ece.uw.edu/hwang/)
-5. [Hamid K. Aghajan (UGent)](https://dblp.org/pers/a/Aghajan:Hamid_K=.html)
+2. [Yuanchao Shu (MSR)](https://www.microsoft.com/en-us/research/people/yushu/)
+3. [Andrea Cavallaro (QMUL)](http://www.eecs.qmul.ac.uk/~andrea/)
+4. [Amit K. Roy-Chowdhury (UC Riverside)](https://vcg.engr.ucr.edu/people/amit-roy-chowdhury)
+5. [Jenq-Neng Hwang (UW)](https://people.ece.uw.edu/hwang/)
+6. [Hamid K. Aghajan (UGent)](https://dblp.org/pers/a/Aghajan:Hamid_K=.html)
 ### Labs
 1. [Live Video Analytics (MSR)](https://www.microsoft.com/en-us/research/project/live-video-analytics/)
 2. [Information Processing Lab (Washington)](http://allison.ee.washington.edu/index.htm)
