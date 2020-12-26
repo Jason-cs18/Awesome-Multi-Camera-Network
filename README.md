@@ -33,9 +33,8 @@ Multi-camera Networks research notes.<br> Inspired by book, I collect papers fro
 #### Surveilliance systems (reducing deployment cost)
 [1] [Zhang et al. The Design and Implementation of a Wireless Video Surveillance System. In MobiCom'15.](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/08/Bahl-MobiCom-2015.pdf)<br>
 [2] [Jain et al. Scaling Video Analytics Systems to Large Camera Deployments. In HotMobile'19.](https://rtcl.eecs.umich.edu/yuanchao/paper/hotmobile19video.pdf)<br>
-[3] [Jain et al. ReXCam: Resource-Efficient, Cross-Camera Video Analytics at Scale. In arXiv.](https://arxiv.org/abs/1811.01268)<br>
-[4] [Xu et al. Approximate Query Service on Autonomous IoT Cameras. In MobiSys'20.](https://arxiv.org/pdf/1909.00841.pdf)<br>
-[5] [Bhardwaj et al. Ekya: Continuous Learning of Video Analytics Models on Edge Compute Servers. In arXiv.](https://arxiv.org/abs/2012.10557) - target to solve when to retrain models and how to reduce resource usage for multi-tasks (many inference and retraining tasks). 
+[3] [Xu et al. Approximate Query Service on Autonomous IoT Cameras. In MobiSys'20.](https://arxiv.org/pdf/1909.00841.pdf)<br>
+[4] [Bhardwaj et al. Ekya: Continuous Learning of Video Analytics Models on Edge Compute Servers. In arXiv.](https://arxiv.org/abs/2012.10557) - target to solve when to retrain models and how to reduce resource usage for multi-tasks (many inference and retraining tasks). 
 #### Multi-View Collaboration (epipolar geometry)
 [1] [Kocabas et al. Self-Supervised Learning of 3D Human Pose using Multi-view Geometry. In CVPR'19.](https://arxiv.org/abs/1903.02330)<br>
 [2] [Yao et al. MONET: Multiview Semi-supervised Keypoint Detection via Epipolar Divergence. In ICCV'19.](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yao_MONET_Multiview_Semi-Supervised_Keypoint_Detection_via_Epipolar_Divergence_ICCV_2019_paper.pdf)<br>
