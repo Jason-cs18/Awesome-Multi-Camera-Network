@@ -22,6 +22,7 @@ In the end, I list datasets and useful toolboxes.
 4. [Amit K. Roy-Chowdhury (UC Riverside)](https://vcg.engr.ucr.edu/people/amit-roy-chowdhury)
 5. [Jenq-Neng Hwang (UW)](https://people.ece.uw.edu/hwang/)
 6. [Hamid K. Aghajan (UGent)](https://dblp.org/pers/a/Aghajan:Hamid_K=.html)
+7. [Umakishore Ramachandran (Gatech)](https://www.cc.gatech.edu/~rama/)
 ### Labs
 1. [Live Video Analytics (MSR)](https://www.microsoft.com/en-us/research/project/live-video-analytics/)
 2. [Information Processing Lab (Washington)](http://allison.ee.washington.edu/index.htm)
