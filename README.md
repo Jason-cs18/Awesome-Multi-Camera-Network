@@ -3,7 +3,8 @@ Multi-camera Networks research notes.<br> Inspired by book, I collect papers fro
 1. Camera Calibration. 
 2. AI Applications (surveilliance systems, multi-view collaboration, **multi-camera collaboration**, efficient object detection, automatic labeling, **MTMC tracking**). 
 3. Video Compression (for efficient communication). 
-4. Database (for fast indexing). <br>
+4. Database (for fast indexing).
+
 In the end, I list datasets and useful toolboxes.
 ## Book
 1. [Multi-Camera Networks: Principles and Applications. 2005.](https://dl.acm.org/citation.cfm?id=1643746)
