@@ -4,6 +4,7 @@ Multi-camera Networks research notes.<br> Inspired by book, I collect papers fro
 2. AI Applications (surveilliance systems, multi-view collaboration, **multi-camera collaboration**, efficient object detection, automatic labeling, **MTMC tracking**). 
 3. Video Compression (for efficient communication). 
 4. Database (for fast indexing).
+In the end, I list datasets and useful toolboxes.
 ## Book
 1. [Multi-Camera Networks: Principles and Applications. 2005.](https://dl.acm.org/citation.cfm?id=1643746)
 2. [Camera Networks: The Acquisition and Analysis of Videos over Wide Areas (Synthesis Lectures on Computer Vision). 2012.](https://epdf.pub/camera-networks-the-acquisition-and-analysis-of-videos-overwide-areas.html)
@@ -85,7 +86,7 @@ Multi-camera Networks research notes.<br> Inspired by book, I collect papers fro
 [6] [Xu et al. Non-Local ConvLSTM for Video Compression Artifact Reduction. In ICCV 2019.](https://arxiv.org/pdf/1910.12286.pdf)
 ### Database
 [1] [Saurez et al. A drop-in middleware for serializable DB clustering across geo-distributed sites. In VLDB'20.](https://dl.acm.org/doi/10.14778/3415478.3415555)
-## Datasets
+## Dataset
 1. [Duke MTMC (8 cameras, non-overlapping)](http://vision.cs.duke.edu/DukeMTMC/)
 2. [Nvidia CityFlow (>40 cameras, overlapping and non-overlapping)](https://www.aicitychallenge.org/)
 3. [EPFL WildTrack (7 cameras, overlapping)](https://www.epfl.ch/labs/cvlab/data/data-wildtrack/)
@@ -93,3 +94,6 @@ Multi-camera Networks research notes.<br> Inspired by book, I collect papers fro
 5. [CMU Panoptic Dataset (>50 cameras, overlapping)](http://domedb.perception.cs.cmu.edu/index.html)
 6. [University of Illinois STREETS (100 cameras, non-overlapping)](https://databank.illinois.edu/datasets/IDB-3671567)
 7. [Awesome reID dataset](https://github.com/NEU-Gou/awesome-reid-dataset)
+## Toolbox
+1. [CHUK-mmcv](https://github.com/open-mmlab/mmcv): a foundational python library for computer vision research and supports many research projects (2D/3D detection, semantic segmentation, image and video editing, pose estimation, action understanding and image classification).
+2. [JDCV-fastreid](https://github.com/JDAI-CV/fast-reid): a SOTA re-identification methods and toolbox (including pedestrian and vehicle re-identification). They also provided a good documentation.
