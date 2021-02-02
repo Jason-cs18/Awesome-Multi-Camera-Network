@@ -97,4 +97,4 @@ In the end, I list datasets and useful toolboxes.
 7. [Awesome reID dataset](https://github.com/NEU-Gou/awesome-reid-dataset)
 ## Toolbox
 1. [CHUK-mmcv](https://github.com/open-mmlab/mmcv): a foundational python library for computer vision research and supports many research projects (2D/3D detection, semantic segmentation, image and video editing, pose estimation, action understanding and image classification).
-2. [JDCV-fastreid](https://github.com/JDAI-CV/fast-reid): a SOTA re-identification methods and toolbox (including pedestrian and vehicle re-identification). They also provided a good documentation.
+2. [JDCV-fastreid](https://github.com/JDAI-CV/fast-reid): a python library implementing SOTA re-identification methods (including pedestrian and vehicle re-identification). They also provided a good documentation.
