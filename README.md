@@ -63,8 +63,9 @@ In the end, I list datasets and useful toolboxes.
 [4] [Hung et al. Wide-area Analytics with Multiple Resources. In EuroSys'18.](http://minlanyu.seas.harvard.edu/talk/eurosys18.pdf)<br>
 [5] [Jiang et al. Networked Cameras Are the New Big Data Clusters. In MobiCom’19 workshop.](https://www.microsoft.com/en-us/research/uploads/prod/2019/08/hotedgevideo19camera.pdf)<br>
 [6] [Emmons et al. Cracking open the DNN black-box: Video Analytics with DNNs across the Camera-Cloud Boundary. In MobiCom’19 workshop.](https://www.microsoft.com/en-us/research/uploads/prod/2019/08/Split-brain_HotEdgeVideo19.pdf)<br>
-[7] [Xu et al. Space-Time Vehicle Tracking at the Edge of the Network. In MobiCom’19 workshop.](https://dl.acm.org/citation.cfm?id=3356025)
-[8] [Xu et al. Coral-Pie: A Geo-Distributed Edge-compute Solution for Space-Time Vehicle Tracking. In Middleware'20.](https://dl.acm.org/doi/abs/10.1145/3423211.3425686)
+[7] [Xu et al. Space-Time Vehicle Tracking at the Edge of the Network. In MobiCom’19 workshop.](https://dl.acm.org/citation.cfm?id=3356025)<br>
+[8] [Xu et al. Coral-Pie: A Geo-Distributed Edge-compute Solution for Space-Time Vehicle Tracking. In Middleware'20.](https://dl.acm.org/doi/abs/10.1145/3423211.3425686)<br>
+[9] [Li et al. Reducto: On-Camera Filtering for Resource-Efficient Real-Time Video Analytics. In SIGCOMM'20.](https://dl.acm.org/doi/pdf/10.1145/3387514.3405874)
 ##### Algorithms (MTMC Tracking)
 [1] [Yu et al. The Solution Path Algorithm for Identity-Aware Multi-Object Tracking. In CVPR'16.](https://zpascal.net/cvpr2016/Yu_The_Solution_Path_CVPR_2016_paper.pdf)<br>
 [2] [Ristani et al. Features for Multi-Target Multi-Camera Tracking and Re-Identification. In CVPR'18.](http://zpascal.net/cvpr2018/Ristani_Features_for_Multi-Target_CVPR_2018_paper.pdf)<br>
