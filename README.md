@@ -34,17 +34,17 @@ In the end, I list datasets and useful toolboxes.
 [1] [Calibration Wizard: A Guidance System for Camera Calibration Based on Modeling Geometric and Corner Uncertainty. In *ICCV'19*.](https://arxiv.org/pdf/1811.03264.pdf)
 ### AI applications (todo)
 #### Surveilliance systems (reducing deployment cost)
-[1] [Zhang et al. The Design and Implementation of a Wireless Video Surveillance System. In MobiCom'15.](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/08/Bahl-MobiCom-2015.pdf)<br>
-[2] [Jain et al. Scaling Video Analytics Systems to Large Camera Deployments. In HotMobile'19.](https://rtcl.eecs.umich.edu/yuanchao/paper/hotmobile19video.pdf)<br>
-[3] [Xu et al. Approximate Query Service on Autonomous IoT Cameras. In MobiSys'20.](https://arxiv.org/pdf/1909.00841.pdf)<br>
+[1] [Zhang et al. The Design and Implementation of a Wireless Video Surveillance System. In *MobiCom'15*.](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/08/Bahl-MobiCom-2015.pdf)<br>
+[2] [Jain et al. Scaling Video Analytics Systems to Large Camera Deployments. In *HotMobile'19*.](https://rtcl.eecs.umich.edu/yuanchao/paper/hotmobile19video.pdf)<br>
+[3] [Xu et al. Approximate Query Service on Autonomous IoT Cameras. In *MobiSys'20*.](https://arxiv.org/pdf/1909.00841.pdf)<br>
 [4] [Bhardwaj et al. Ekya: Continuous Learning of Video Analytics Models on Edge Compute Servers. In arXiv.](https://arxiv.org/abs/2012.10557) - target to solve when to retrain models and how to reduce resource usage for multi-tasks (many inference and retraining tasks). 
 #### Multi-View Collaboration (epipolar geometry)
-[1] [Kocabas et al. Self-Supervised Learning of 3D Human Pose using Multi-view Geometry. In CVPR'19.](https://arxiv.org/abs/1903.02330)<br>
-[2] [Yao et al. MONET: Multiview Semi-supervised Keypoint Detection via Epipolar Divergence. In ICCV'19.](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yao_MONET_Multiview_Semi-Supervised_Keypoint_Detection_via_Epipolar_Divergence_ICCV_2019_paper.pdf)<br>
-[3] [Qiu et al. Cross View Fusion for 3D Human Pose Estimation. In ICCV'19.](https://arxiv.org/pdf/1909.01203.pdf)<br>
-[4] [Brickwedde et al. Mono-SF: Multi-View Geometry Meets Single-View Depth for Monocular Scene Flow Estimation of Dynamic Traffic Scenes. In ICCV'19.](http://openaccess.thecvf.com/content_ICCV_2019/papers/Brickwedde_Mono-SF_Multi-View_Geometry_Meets_Single-View_Depth_for_Monocular_Scene_Flow_ICCV_2019_paper.pdf)<br>
-[5] [Trinidad et al. Multi-view Image Fusion. In ICCV'19.](http://openaccess.thecvf.com/content_ICCV_2019/papers/Trinidad_Multi-View_Image_Fusion_ICCV_2019_paper.pdf)<br>
-[6] [Nassar et al. Simultaneous multi-view instance detection with learned geometric soft-constraints. In ICCV'19.](http://openaccess.thecvf.com/content_ICCV_2019/papers/Nassar_Simultaneous_Multi-View_Instance_Detection_With_Learned_Geometric_Soft-Constraints_ICCV_2019_paper.pdf)<br>
+[1] [Kocabas et al. Self-Supervised Learning of 3D Human Pose using Multi-view Geometry. In *CVPR'19*.](https://arxiv.org/abs/1903.02330)<br>
+[2] [Yao et al. MONET: Multiview Semi-supervised Keypoint Detection via Epipolar Divergence. In *ICCV'19*.](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yao_MONET_Multiview_Semi-Supervised_Keypoint_Detection_via_Epipolar_Divergence_ICCV_2019_paper.pdf)<br>
+[3] [Qiu et al. Cross View Fusion for 3D Human Pose Estimation. In *ICCV'19*.](https://arxiv.org/pdf/1909.01203.pdf)<br>
+[4] [Brickwedde et al. Mono-SF: Multi-View Geometry Meets Single-View Depth for Monocular Scene Flow Estimation of Dynamic Traffic Scenes. In *ICCV'19*.](http://openaccess.thecvf.com/content_ICCV_2019/papers/Brickwedde_Mono-SF_Multi-View_Geometry_Meets_Single-View_Depth_for_Monocular_Scene_Flow_ICCV_2019_paper.pdf)<br>
+[5] [Trinidad et al. Multi-view Image Fusion. In *ICCV'19*.](http://openaccess.thecvf.com/content_ICCV_2019/papers/Trinidad_Multi-View_Image_Fusion_ICCV_2019_paper.pdf)<br>
+[6] [Nassar et al. Simultaneous multi-view instance detection with learned geometric soft-constraints. In *ICCV'19*.](http://openaccess.thecvf.com/content_ICCV_2019/papers/Nassar_Simultaneous_Multi-View_Instance_Detection_With_Learned_Geometric_Soft-Constraints_ICCV_2019_paper.pdf)<br>
 [7] [Yao et al. Multiview Cross-supervision for Semantic Segmentation. In WACV'20.](https://arxiv.org/abs/1812.01738)<br>
 [8] [Zhang et al. Multiview Supervision By Registration. In WACV'20.](https://arxiv.org/abs/1811.11251)
 #### Multi-Camera Collaboration (exploring collaboration in a large camera networks, such as drone networks)
