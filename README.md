@@ -5,7 +5,7 @@ Multi-camera Networks research notes.<br> Inspired by [book](https://dl.acm.org/
 3. Video Compression (for efficient communication). 
 4. Database (for fast indexing).
 
-In the end, I list datasets and useful toolboxes.
+In the end, I list datasets and useful toolboxes (I will keep maintaining this list)).
 ## Book
 1. [Multi-Camera Networks: Principles and Applications. 2005.](https://dl.acm.org/citation.cfm?id=1643746)
 2. [Camera Networks: The Acquisition and Analysis of Videos over Wide Areas (Synthesis Lectures on Computer Vision). 2012.](https://epdf.pub/camera-networks-the-acquisition-and-analysis-of-videos-overwide-areas.html)
