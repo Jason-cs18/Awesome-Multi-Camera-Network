@@ -92,7 +92,7 @@ In the end, I list datasets and useful toolboxes (I will keep maintaining this l
 [4] [Djelouah et al. Neural Inter-Frame Compression for Video Coding. In *ICCV'19*.](https://openaccess.thecvf.com/content_ICCV_2019/papers/Djelouah_Neural_Inter-Frame_Compression_for_Video_Coding_ICCV_2019_paper.pdf)<br>
 [5] [Habibian et al. Video Compression With Rate-Distortion Autoencoders. In *ICCV'19*.](http://openaccess.thecvf.com/content_ICCV_2019/papers/Habibian_Video_Compression_With_Rate-Distortion_Autoencoders_ICCV_2019_paper.pdf)<br>
 [6] [Xu et al. Non-Local ConvLSTM for Video Compression Artifact Reduction. In *ICCV'19*.](https://arxiv.org/pdf/1910.12286.pdf)<br>
-[7] [Yan et al. Learning in situ: a randomized experiment in video streaming. In *NSDI'20*.](https://www.usenix.org/conference/nsdi20/presentation/yan)<br>
+[7] [Y. Yan et al. Learning in situ: a randomized experiment in video streaming. In *NSDI'20*.](https://www.usenix.org/conference/nsdi20/presentation/yan)<br>
 [8] [Zhang et al. SENSEI: Aligning Video Streaming Quality with Dynamic User Sensitivity. In *NSDI'21*.](https://www.usenix.org/conference/nsdi21/presentation/zhang-xu)
 ### Database
 [1] [Saurez et al. A drop-in middleware for serializable DB clustering across geo-distributed sites. In VLDB'20.](https://dl.acm.org/doi/10.14778/3415478.3415555)
