@@ -23,6 +23,7 @@ In the end, I list datasets and useful toolboxes (I will keep maintaining this l
 5. [Jenq-Neng Hwang (UW)](https://people.ece.uw.edu/hwang/)
 6. [Hamid K. Aghajan (UGent)](https://dblp.org/pers/a/Aghajan:Hamid_K=.html)
 7. [Umakishore Ramachandran (Gatech)](https://www.cc.gatech.edu/~rama/)
+8. [Youngki Lee (SNU)](http://youngkilee.blogspot.com/)
 ### Labs
 1. [Live Video Analytics (MSR)](https://www.microsoft.com/en-us/research/project/live-video-analytics/)
 2. [Information Processing Lab (Washington)](http://allison.ee.washington.edu/index.htm)
@@ -37,7 +38,8 @@ In the end, I list datasets and useful toolboxes (I will keep maintaining this l
 [1] [Zhang et al. The Design and Implementation of a Wireless Video Surveillance System. In *MobiCom'15*.](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/08/Bahl-MobiCom-2015.pdf)<br>
 [2] [Jain et al. Scaling Video Analytics Systems to Large Camera Deployments. In *HotMobile'19*.](https://rtcl.eecs.umich.edu/yuanchao/paper/hotmobile19video.pdf)<br>
 [3] [Xu et al. Approximate Query Service on Autonomous IoT Cameras. In *MobiSys'20*.](https://arxiv.org/pdf/1909.00841.pdf)<br>
-[4] [Bhardwaj et al. Ekya: Continuous Learning of Video Analytics Models on Edge Compute Servers. In arXiv.](https://arxiv.org/abs/2012.10557) - target to solve when to retrain models and how to reduce resource usage for multi-tasks (many inference and retraining tasks). 
+[4] [Bhardwaj et al. Ekya: Continuous Learning of Video Analytics Models on Edge Compute Servers. In *NSDI'22*.](https://arxiv.org/abs/2012.10557) - target to solve when to retrain models and how to reduce resource usage for multi-tasks (many inference and retraining tasks). <br>
+[5] [Suprem et al. ODIN: Automated Drift Detection and Recovery in Video Analytics. In *VLDB'21*.](http://www.vldb.org/pvldb/vol13/p2453-suprem.pdf) - target to detect domain drift and update corresponding models automatically. 
 #### Multi-View Collaboration (epipolar geometry)
 [1] [Kocabas et al. Self-Supervised Learning of 3D Human Pose using Multi-view Geometry. In *CVPR'19*.](https://arxiv.org/abs/1903.02330)<br>
 [2] [Yao et al. MONET: Multiview Semi-supervised Keypoint Detection via Epipolar Divergence. In *ICCV'19*.](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yao_MONET_Multiview_Semi-Supervised_Keypoint_Detection_via_Epipolar_Divergence_ICCV_2019_paper.pdf)<br>
