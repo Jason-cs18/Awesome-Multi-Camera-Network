@@ -87,13 +87,14 @@ In the end, I list datasets and useful toolboxes (I will keep maintaining this l
 [8] [Qi et al. A Novel Unsupervised Camera-aware Domain Adaptation Framework for Person Re-identification. In ICCV'19.](http://openaccess.thecvf.com/content_ICCV_2019/papers/Qi_A_Novel_Unsupervised_Camera-Aware_Domain_Adaptation_Framework_for_Person_Re-Identification_ICCV_2019_paper.pdf)<br>
 [9] [Zhu et al. Intra-Camera Supervised Person Re-Identification: A New Benchmark. In ICCV'19 workshop.](http://openaccess.thecvf.com/content_ICCVW_2019/papers/RLQ/Zhu_Intra-Camera_Supervised_Person_Re-Identification_A_New_Benchmark_ICCVW_2019_paper.pdf)<br>
 [10] [Wang et al. Exploit the Connectivity: Multi-Object Tracking with TrackletNet. In MM'19.](https://dl.acm.org/doi/10.1145/3343031.3350853)
-### Video compression
-[1] [Naderiparizi et al. Towards Battery-Free HD Video Streaming. In NSDI’18.](https://batteryfreevideo.cs.washington.edu/files/batteryfreevideo.pdf)<br>
-[2] [Baig et al. Jigsaw: Robust Live 4K Video Streaming. In MobiCom'19.](http://www.cs.utexas.edu/~jianhe/jigsaw-mobicom19.pdf)<br>
-[3] [Rippel et al. Learned Video Compression. In ICCV 2019.](https://arxiv.org/abs/1811.06981)<br>
-[4] [Djelouah et al. Neural Inter-Frame Compression for Video Coding. In ICCV 2019.](http://openaccess.thecvf.com/content_ICCV_2019/papers/Djelouah_Neural_Inter-Frame_Compression_for_Video_Coding_ICCV_2019_paper.pdf)<br>
-[5] [Habibian et al. Video Compression with Rate-Distortion Autoencoders. In ICCV 2019.](http://openaccess.thecvf.com/content_ICCV_2019/papers/Habibian_Video_Compression_With_Rate-Distortion_Autoencoders_ICCV_2019_paper.pdf)<br>
-[6] [Xu et al. Non-Local ConvLSTM for Video Compression Artifact Reduction. In ICCV 2019.](https://arxiv.org/pdf/1910.12286.pdf)
+### Video compression (including video streaming)
+[1] [Naderiparizi et al. Towards Battery-Free HD Video Streaming. In *NSDI’18*.](https://batteryfreevideo.cs.washington.edu/files/batteryfreevideo.pdf)<br>
+[2] [Baig et al. Jigsaw: Robust Live 4K Video Streaming. In *MobiCom'19*.](http://www.cs.utexas.edu/~jianhe/jigsaw-mobicom19.pdf)<br>
+[3] [Rippel et al. Learned Video Compression. In *ICCV'19*.](https://arxiv.org/abs/1811.06981)<br>
+[4] [Djelouah et al. Neural Inter-Frame Compression for Video Coding. In *ICCV'19*.](http://openaccess.thecvf.com/content_ICCV_2019/papers/Djelouah_Neural_Inter-Frame_Compression_for_Video_Coding_ICCV_2019_paper.pdf)<br>
+[5] [Habibian et al. Video Compression with Rate-Distortion Autoencoders. In *ICCV'19*.](http://openaccess.thecvf.com/content_ICCV_2019/papers/Habibian_Video_Compression_With_Rate-Distortion_Autoencoders_ICCV_2019_paper.pdf)<br>
+[6] [Xu et al. Non-Local ConvLSTM for Video Compression Artifact Reduction. In *ICCV'19*.](https://arxiv.org/pdf/1910.12286.pdf)<br>
+[7] [Zhang et al. SENSEI: Aligning Video Streaming Quality with Dynamic User Sensitivity. In *NSDI'21*.](https://www.usenix.org/conference/nsdi21/presentation/zhang-xu)
 ### Database
 [1] [Saurez et al. A drop-in middleware for serializable DB clustering across geo-distributed sites. In VLDB'20.](https://dl.acm.org/doi/10.14778/3415478.3415555)
 ## Dataset
