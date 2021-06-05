@@ -24,12 +24,14 @@ In the end, I list datasets and useful toolboxes (I will keep maintaining this l
 6. [Hamid K. Aghajan (UGent)](https://dblp.org/pers/a/Aghajan:Hamid_K=.html)
 7. [Umakishore Ramachandran (Gatech)](https://www.cc.gatech.edu/~rama/)
 8. [Youngki Lee (SNU)](http://youngkilee.blogspot.com/)
+9. [Juncheng Jiang (UChicago)](https://people.cs.uchicago.edu/~junchenj/)
 ### Labs
 1. [Live Video Analytics (MSR)](https://www.microsoft.com/en-us/research/project/live-video-analytics/)
 2. [Information Processing Lab (Washington)](http://allison.ee.washington.edu/index.htm)
 3. [Video Computing Group (UC Riverside)](https://vcg.engr.ucr.edu/)
 4. [Vision Research Lab (UCSB)](https://vision.ece.ucsb.edu/)
 5. [Audio-visual Signal processing and Communication Systems (Berkeley)](https://people.eecs.berkeley.edu/~kannanr/about.html)
+6. [Human-Centered Computer Systems Lab (SNU)](https://hcs.snu.ac.kr/)
 ## Research opportunities
 ### Camera calibration
 [1] [Calibration Wizard: A Guidance System for Camera Calibration Based on Modeling Geometric and Corner Uncertainty. In *ICCV'19*.](https://arxiv.org/pdf/1811.03264.pdf)
