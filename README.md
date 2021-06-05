@@ -89,7 +89,7 @@ In the end, I list datasets and useful toolboxes (I will keep maintaining this l
 [1] [Naderiparizi et al. Towards Battery-Free HD Video Streaming. In *NSDI’18*.](https://batteryfreevideo.cs.washington.edu/files/batteryfreevideo.pdf)<br>
 [2] [Baig et al. Jigsaw: Robust Live 4K Video Streaming. In *MobiCom'19*.](http://www.cs.utexas.edu/~jianhe/jigsaw-mobicom19.pdf)<br>
 [3] [Rippel et al. Learned Video Compression. In *ICCV'19*.](https://arxiv.org/abs/1811.06981)<br>
-[4] [Djelouah et al. Neural Inter-Frame Compression for Video Coding. In *ICCV'19*.](https://openaccess.thecvf.com/content_ICCV_2019/papers/Djelouah_Neural_Inter-Frame_Compression_for_Video_Coding_ICCV_2019_paper.pdf]<br>
+[4] [Djelouah et al. Neural Inter-Frame Compression for Video Coding. In *ICCV'19*.](https://openaccess.thecvf.com/content_ICCV_2019/papers/Djelouah_Neural_Inter-Frame_Compression_for_Video_Coding_ICCV_2019_paper.pdf)<br>
 [5] [Habibian et al. Video Compression With Rate-Distortion Autoencoders. In *ICCV'19*.](http://openaccess.thecvf.com/content_ICCV_2019/papers/Habibian_Video_Compression_With_Rate-Distortion_Autoencoders_ICCV_2019_paper.pdf)<br>
 [6] [Xu et al. Non-Local ConvLSTM for Video Compression Artifact Reduction. In *ICCV'19*.](https://arxiv.org/pdf/1910.12286.pdf)<br>
 [7] [Yan et al. Learning in situ: a randomized experiment in video streaming. In *NSDI'20*.](https://www.usenix.org/conference/nsdi20/presentation/yan)<br>
