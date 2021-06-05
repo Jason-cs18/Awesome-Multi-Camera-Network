@@ -95,7 +95,8 @@ In the end, I list datasets and useful toolboxes (I will keep maintaining this l
 [7] [Y. Yan et al. Learning in situ: a randomized experiment in video streaming. In *NSDI'20*.](https://www.usenix.org/conference/nsdi20/presentation/yan)<br>
 [8] [Kim et al. Neural-Enhanced Live Streaming: Improving Live Video Ingest via Online Learning. In *SIGCOMM'20*.](https://dl.acm.org/doi/abs/10.1145/3387514.3405856)<br>
 [9] [Du et al. Server-Driven Video Streaming for Deep Learning Inference. In *SIGCOMM'20*.](https://dl.acm.org/doi/pdf/10.1145/3387514.3405887)<br>
-[10] [Zhang et al. SENSEI: Aligning Video Streaming Quality with Dynamic User Sensitivity. In *NSDI'21*.](https://www.usenix.org/conference/nsdi21/presentation/zhang-xu)
+[10] [Han et al. ViVo: Visibility-aware Mobile Volumetric Video Streamin. In *MobiCom'20*.](https://dl.acm.org/doi/10.1145/3372224.3380888)<br>
+[11] [Zhang et al. SENSEI: Aligning Video Streaming Quality with Dynamic User Sensitivity. In *NSDI'21*.](https://www.usenix.org/conference/nsdi21/presentation/zhang-xu)<br>
 ### Database
 [1] [Saurez et al. A drop-in middleware for serializable DB clustering across geo-distributed sites. In VLDB'20.](https://dl.acm.org/doi/10.14778/3415478.3415555)
 ## Dataset
