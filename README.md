@@ -93,7 +93,9 @@ In the end, I list datasets and useful toolboxes (I will keep maintaining this l
 [5] [Habibian et al. Video Compression With Rate-Distortion Autoencoders. In *ICCV'19*.](http://openaccess.thecvf.com/content_ICCV_2019/papers/Habibian_Video_Compression_With_Rate-Distortion_Autoencoders_ICCV_2019_paper.pdf)<br>
 [6] [Xu et al. Non-Local ConvLSTM for Video Compression Artifact Reduction. In *ICCV'19*.](https://arxiv.org/pdf/1910.12286.pdf)<br>
 [7] [Y. Yan et al. Learning in situ: a randomized experiment in video streaming. In *NSDI'20*.](https://www.usenix.org/conference/nsdi20/presentation/yan)<br>
-[8] [Zhang et al. SENSEI: Aligning Video Streaming Quality with Dynamic User Sensitivity. In *NSDI'21*.](https://www.usenix.org/conference/nsdi21/presentation/zhang-xu)
+[8] [Kim et al. Neural-Enhanced Live Streaming: Improving Live Video Ingest via Online Learning. In *SIGCOMM'20*.](https://dl.acm.org/doi/abs/10.1145/3387514.3405856)<br>
+[9] [Du et al. Server-Driven Video Streaming for Deep Learning Inference. In *SIGCOMM'20*.](https://dl.acm.org/doi/pdf/10.1145/3387514.3405887)<br>
+[10] [Zhang et al. SENSEI: Aligning Video Streaming Quality with Dynamic User Sensitivity. In *NSDI'21*.](https://www.usenix.org/conference/nsdi21/presentation/zhang-xu)
 ### Database
 [1] [Saurez et al. A drop-in middleware for serializable DB clustering across geo-distributed sites. In VLDB'20.](https://dl.acm.org/doi/10.14778/3415478.3415555)
 ## Dataset
