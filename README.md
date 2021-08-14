@@ -15,7 +15,7 @@ In the end, I list datasets and useful toolboxes (I will keep maintaining this l
 [2] [Wang et al. Intelligent multi-camera video surveillance: a review. 2012.](https://dl.acm.org/citation.cfm?id=2397216)<br>
 [3] [Ye et al. Wireless Video Surveillance: A Survey. 2013.](https://www.researchgate.net/publication/270767766_Wireless_Video_Surveillance_A_Survey)<br>
 [4] [Zhang et al. Deep Learning in Mobile and Wireless Networking: A Survey. IEEE TRANS 2019.](https://arxiv.org/pdf/1803.04311.pdf)
-## Researchers and labs
+## Researchers, labs and workshops
 ### Researchers
 1. [Ganesh Ananthanarayanan (MSR)](https://www.microsoft.com/en-us/research/people/ga/)
 2. [Yuanchao Shu (MSR)](https://www.microsoft.com/en-us/research/people/yushu/)
@@ -33,6 +33,8 @@ In the end, I list datasets and useful toolboxes (I will keep maintaining this l
 4. [Vision Research Lab (UCSB)](https://vision.ece.ucsb.edu/)
 5. [Audio-visual Signal processing and Communication Systems (Berkeley)](https://people.eecs.berkeley.edu/~kannanr/about.html)
 6. [Human-Centered Computer Systems Lab (SNU)](https://hcs.snu.ac.kr/)
+### Workshops
+1. [The 3rd Workshop on Hot Topics in Video Analytics and Intelligent Edges (ACM MobiCom'21)](https://www.microsoft.com/en-us/research/event/the-3rd-workshop-on-hot-topics-in-video-analytics-and-intelligent-edges/#!call-for-papers): focuses on deep learning based video analytics.
 ## Research opportunities
 ### Camera calibration
 [1] [Calibration Wizard: A Guidance System for Camera Calibration Based on Modeling Geometric and Corner Uncertainty. In *ICCV'19*.](https://arxiv.org/pdf/1811.03264.pdf)
