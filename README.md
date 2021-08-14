@@ -34,7 +34,7 @@ In the end, I list datasets and useful toolboxes (I will keep maintaining this l
 5. [Audio-visual Signal processing and Communication Systems (Berkeley)](https://people.eecs.berkeley.edu/~kannanr/about.html)
 6. [Human-Centered Computer Systems Lab (SNU)](https://hcs.snu.ac.kr/)
 ### Workshops
-1. [The 3rd Workshop on Hot Topics in Video Analytics and Intelligent Edges (ACM MobiCom'21)](https://www.microsoft.com/en-us/research/event/the-3rd-workshop-on-hot-topics-in-video-analytics-and-intelligent-edges/#!call-for-papers): focuses on deep learning based video analytics.
+1. [The 3rd Workshop on Hot Topics in Video Analytics and Intelligent Edges (ACM MobiCom'21)](https://www.microsoft.com/en-us/research/event/the-3rd-workshop-on-hot-topics-in-video-analytics-and-intelligent-edges/#!call-for-papers) - focus on deep learning based video analytics.
 ## Research opportunities
 ### Camera calibration
 [1] [Calibration Wizard: A Guidance System for Camera Calibration Based on Modeling Geometric and Corner Uncertainty. In *ICCV'19*.](https://arxiv.org/pdf/1811.03264.pdf)
