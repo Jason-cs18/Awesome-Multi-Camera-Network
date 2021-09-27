@@ -26,6 +26,7 @@ In the end, I list datasets and useful toolboxes (I will keep maintaining this l
 7. [Umakishore Ramachandran (Gatech)](https://www.cc.gatech.edu/~rama/)
 8. [Youngki Lee (SNU)](http://youngkilee.blogspot.com/)
 9. [Juncheng Jiang (UChicago)](https://people.cs.uchicago.edu/~junchenj/)
+10. [Ravi Netravali (Princeton)](https://www.cs.princeton.edu/~ravian/)
 ### Labs
 1. [Live Video Analytics (MSR)](https://www.microsoft.com/en-us/research/project/live-video-analytics/)
 2. [Information Processing Lab (Washington)](http://allison.ee.washington.edu/index.htm)
@@ -35,6 +36,9 @@ In the end, I list datasets and useful toolboxes (I will keep maintaining this l
 6. [Human-Centered Computer Systems Lab (SNU)](https://hcs.snu.ac.kr/)
 ### Workshops
 1. [The 3rd Workshop on Hot Topics in Video Analytics and Intelligent Edges (*ACM MobiCom'21*)](https://www.microsoft.com/en-us/research/event/the-3rd-workshop-on-hot-topics-in-video-analytics-and-intelligent-edges/#!call-for-papers) - focus on deep learning based video analytics.
+### Courses
+1. [CS239: ML-driven Video Analytics Systems (Fall 2020, UCLA)](http://web.cs.ucla.edu/~ravi/CS239_F20/index.html) - target to recent research interests on video analytics (_Strong Recommendation_)
+2. [CS34702 Topics in Networks: Machine Learning for Networking and Systems (Fall 2020, UChicago)](https://people.cs.uchicago.edu/~junchenj/34702-f20/syllabus.html) - target to awesome recent research works on netwoking system (_video streaming and cloud scheduing_ are recommended)
 ## Research opportunities
 ### Camera calibration
 [1] [Calibration Wizard: A Guidance System for Camera Calibration Based on Modeling Geometric and Corner Uncertainty. In *ICCV'19*.](https://arxiv.org/pdf/1811.03264.pdf)
