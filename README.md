@@ -17,7 +17,7 @@ In the end, I list datasets and useful toolboxes (I will keep maintaining this l
 [3] [Ye et al. Wireless Video Surveillance: A Survey. 2013.](https://www.researchgate.net/publication/270767766_Wireless_Video_Surveillance_A_Survey)<br>
 [4] [Zhang et al. Deep Learning in Mobile and Wireless Networking: A Survey. IEEE TRANS 2019.](https://arxiv.org/pdf/1803.04311.pdf)
 ## Researchers, labs and workshops
-### Researchers
+### Researchers (organization and research interests)
 1. [Ganesh Ananthanarayanan (MSR, USA)](https://www.microsoft.com/en-us/research/people/ga/) - Live video analytics, distributed computing
 2. [Yuanchao Shu (MSR, USA)](https://www.microsoft.com/en-us/research/people/yushu/) - Live video analytics, location-based systems
 3. [Andrea Cavallaro (QMUL, ENG)](http://www.eecs.qmul.ac.uk/~andrea/) - Low-level vision tasks across camera networks, multi-modal fusion, **privacy-aware video analytics (based on adversarial-training/learning)**
