@@ -5,7 +5,7 @@ Inspired by [book](https://dl.acm.org/citation.cfm?id=1643746), I collect papers
 2. AI Applications (surveilliance systems, multi-view collaboration, **multi-camera collaboration**, efficient object detection, automatic labeling, **MTMC tracking**). 
 3. Video Compression (for efficient communication). 
 4. Database (for fast indexing).
-5. [[**Privacy**](#Privacy)] (for privacy-preserving inference/training/transmission).
+5. [**Privacy**(#Privacy)] (for privacy-preserving inference/training/transmission).
 
 In the end, I list datasets and useful toolboxes (I will keep maintaining this list).
 ## Book
