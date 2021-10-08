@@ -19,7 +19,7 @@ In the end, I list datasets and useful toolboxes (I will keep maintaining this l
 ### Researchers
 1. [Ganesh Ananthanarayanan (MSR)](https://www.microsoft.com/en-us/research/people/ga/) - Live video analytics, distributed computing
 2. [Yuanchao Shu (MSR)](https://www.microsoft.com/en-us/research/people/yushu/) - Live video analytics, location-based systems
-3. [Andrea Cavallaro (QMUL)](http://www.eecs.qmul.ac.uk/~andrea/) - Low-level vision tasks across camera networks, multi-modal fusion, privacy-aware video analytics
+3. [Andrea Cavallaro (QMUL)](http://www.eecs.qmul.ac.uk/~andrea/) - Low-level vision tasks across camera networks, multi-modal fusion, **privacy-aware video analytics (based on adversarial-training/learning)**
 4. [Amit K. Roy-Chowdhury (UC Riverside)](https://vcg.engr.ucr.edu/people/amit-roy-chowdhury) - Deep learning based video analytics (tracking, reID, super-resolution and domain adaptation)
 5. [Jenq-Neng Hwang (UW)](https://people.ece.uw.edu/hwang/) - Deep learning based video analytics (tracking, reID, localization, visual odometry)
 6. [Hamid K. Aghajan (UGent)](https://dblp.org/pers/a/Aghajan:Hamid_K=.html) - Video analytics across multi-cameras
