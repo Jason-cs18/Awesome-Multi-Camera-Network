@@ -1,10 +1,10 @@
 # Multi-Camera Networks
 Multi-camera Networks research notes. **Target venues**: network conferences (*NSDI/SIGCOMM*), mobile conferences (*MobiCom/MobiSys/SenSys/UbiComp*) and computer vision conferences (*ICCV/CVPR/ECCV*).<br>
 Inspired by [book](https://dl.acm.org/citation.cfm?id=1643746), I collect papers from four topics in research opportunities: 
-1. Camera Calibration. 
-2. AI Applications (surveilliance systems, multi-view collaboration, **multi-camera collaboration**, efficient object detection, automatic labeling, **MTMC tracking**). 
-3. Video Compression (for efficient communication). 
-4. Database (for fast indexing).
+1. [Camera Calibration](#Camera calibration). 
+2. [AI Applications](#AI applications (todo)) (surveilliance systems, multi-view collaboration, **multi-camera collaboration**, efficient object detection, automatic labeling, **MTMC tracking**). 
+3. [Video Compression](#Video compression (including video streaming)) (for efficient communication). 
+4. [Database](#Database) (for fast indexing).
 5. [**Privacy**](#Privacy) (for privacy-preserving inference/training/transmission).
 
 In the end, I list datasets and useful toolboxes (I will keep maintaining this list).
@@ -18,17 +18,18 @@ In the end, I list datasets and useful toolboxes (I will keep maintaining this l
 [4] [Zhang et al. Deep Learning in Mobile and Wireless Networking: A Survey. IEEE TRANS 2019.](https://arxiv.org/pdf/1803.04311.pdf)
 ## Researchers, labs and workshops
 ### Researchers
-1. [Ganesh Ananthanarayanan (MSR)](https://www.microsoft.com/en-us/research/people/ga/) - Live video analytics, distributed computing
-2. [Yuanchao Shu (MSR)](https://www.microsoft.com/en-us/research/people/yushu/) - Live video analytics, location-based systems
-3. [Andrea Cavallaro (QMUL)](http://www.eecs.qmul.ac.uk/~andrea/) - Low-level vision tasks across camera networks, multi-modal fusion, **privacy-aware video analytics (based on adversarial-training/learning)**
-4. [Amit K. Roy-Chowdhury (UC Riverside)](https://vcg.engr.ucr.edu/people/amit-roy-chowdhury) - Deep learning based video analytics (tracking, reID, super-resolution and domain adaptation)
-5. [Jenq-Neng Hwang (UW)](https://people.ece.uw.edu/hwang/) - Deep learning based video analytics (tracking, reID, localization, visual odometry)
-6. [Hamid K. Aghajan (UGent)](https://dblp.org/pers/a/Aghajan:Hamid_K=.html) - Video analytics across multi-cameras
-7. [Umakishore Ramachandran (Gatech)](https://www.cc.gatech.edu/~rama/) - Edge AI (OS, kernel)
-8. [Youngki Lee (SNU)](http://youngkilee.blogspot.com/) - Edge AI and AR/VR
-9. [Juncheng Jiang (UChicago)](https://people.cs.uchicago.edu/~junchenj/) - Video streaming
-10. [Ravi Netravali (Princeton)](https://www.cs.princeton.edu/~ravian/) - Edge AI
-11. [Silvio Savarese (Stanford)](https://scholar.google.com/citations?hl=zh-CN&user=ImpbxLsAAAAJ&view_op=list_works&sortby=pubdate) - 3D vision and robotics
+1. [Ganesh Ananthanarayanan (MSR, USA)](https://www.microsoft.com/en-us/research/people/ga/) - Live video analytics, distributed computing
+2. [Yuanchao Shu (MSR, USA)](https://www.microsoft.com/en-us/research/people/yushu/) - Live video analytics, location-based systems
+3. [Andrea Cavallaro (QMUL, ENG)](http://www.eecs.qmul.ac.uk/~andrea/) - Low-level vision tasks across camera networks, multi-modal fusion, **privacy-aware video analytics (based on adversarial-training/learning)**
+4. [Amit K. Roy-Chowdhury (UC Riverside, USA)](https://vcg.engr.ucr.edu/people/amit-roy-chowdhury) - Deep learning based video analytics (tracking, reID, super-resolution and domain adaptation)
+5. [Jenq-Neng Hwang (UW, USA)](https://people.ece.uw.edu/hwang/) - Deep learning based video analytics (tracking, reID, localization, visual odometry)
+6. [Hamid K. Aghajan (UGent, BE)](https://dblp.org/pers/a/Aghajan:Hamid_K=.html) - Video analytics across multi-cameras
+7. [Umakishore Ramachandran (Gatech, USA)](https://www.cc.gatech.edu/~rama/) - Edge AI (OS, kernel)
+8. [Youngki Lee (SNU, KR)](http://youngkilee.blogspot.com/) - Edge AI and AR/VR
+9. [Juncheng Jiang (UChicago, USA)](https://people.cs.uchicago.edu/~junchenj/) - Video streaming
+10. [Ravi Netravali (Princeton, USA)](https://www.cs.princeton.edu/~ravian/) - Edge AI
+11. [Silvio Savarese (Stanford, USA)](https://scholar.google.com/citations?hl=zh-CN&user=ImpbxLsAAAAJ&view_op=list_works&sortby=pubdate) - 3D vision and robotics
+12. [Fengyuan Xu (NJU, CN)](https://cs.nju.edu.cn/fxu/) - the Internet of Video Things (IoVT)
 ### Labs
 1. [Live Video Analytics (MSR)](https://www.microsoft.com/en-us/research/project/live-video-analytics/)
 2. [Information Processing Lab (Washington)](http://allison.ee.washington.edu/index.htm)
