@@ -1,10 +1,10 @@
 # Multi-Camera Networks
 Multi-camera Networks research notes. **Target venues**: network conferences (*NSDI/SIGCOMM*), mobile conferences (*MobiCom/MobiSys/SenSys/UbiComp*) and computer vision conferences (*ICCV/CVPR/ECCV*).<br>
 Inspired by [book](https://dl.acm.org/citation.cfm?id=1643746), I collect papers from four topics in research opportunities: 
-1. [Camera Calibration](#Camera). 
-2. [AI Applications](#AI applications (todo)) (surveilliance systems, multi-view collaboration, **multi-camera collaboration**, efficient object detection, automatic labeling, **MTMC tracking**). 
-3. [Video Compression](#Video compression (including video streaming)) (for efficient communication). 
-4. [Database](#Database) (for fast indexing).
+1. Camera Calibration. 
+2. AI Applications (surveilliance systems, multi-view collaboration, **multi-camera collaboration**, efficient object detection, automatic labeling, **MTMC tracking**). 
+3. Video Compression (for efficient communication). 
+4. Database (for fast indexing).
 5. [**Privacy**](#Privacy) (for privacy-preserving inference/training/transmission).
 
 In the end, I list datasets and useful toolboxes (I will keep maintaining this list).
