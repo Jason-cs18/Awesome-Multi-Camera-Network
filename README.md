@@ -109,9 +109,9 @@ In the end, I list datasets and useful toolboxes (I will keep maintaining this l
 ### Database
 [1] [Saurez et al. A drop-in middleware for serializable DB clustering across geo-distributed sites. In VLDB'20.](https://dl.acm.org/doi/10.14778/3415478.3415555)
 ### Privacy
-[1] [(TAMU and Adobe Research) Wu et al. Towards Privacy-Preserving Visual Recognition via Adversarial Training: A Pilot Study. Published in _ECCV'18_.](https://openaccess.thecvf.com/content_ECCV_2018/papers/Zhenyu_Wu_Towards_Privacy-Preserving_Visual_ECCV_2018_paper.pdf)<br>
-[2] [(CMU) Wang et al. Enabling Live Video Analytics with a Scalable and Privacy-Aware Framework. Published in _2018 ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)_.](https://www.privacyassistant.org/media/publications/tomm2018.pdf)<br>
-[3] [(UCB and MSR) Poddar et al. Visor: Privacy-Preserving Video Analytics as a Cloud Service. Published in _29th	Usenix Security Symposium_.](https://www.usenix.org/conference/usenixsecurity20/presentation/poddar)<br>
+[1] [(TAMU and Adobe Research) Wu et al. Towards Privacy-Preserving Visual Recognition via Adversarial Training: A Pilot Study. In _ECCV'18_.](https://openaccess.thecvf.com/content_ECCV_2018/papers/Zhenyu_Wu_Towards_Privacy-Preserving_Visual_ECCV_2018_paper.pdf)<br>
+[2] [(CMU) Wang et al. Enabling Live Video Analytics with a Scalable and Privacy-Aware Framework. In _2018 ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)_.](https://www.privacyassistant.org/media/publications/tomm2018.pdf)<br>
+[3] [(UCB and MSR) Poddar et al. Visor: Privacy-Preserving Video Analytics as a Cloud Service. In _29th	Usenix Security Symposium_.](https://www.usenix.org/conference/usenixsecurity20/presentation/poddar)<br>
 [4] [(CMU, UCSD and MSR) Dsouza et al. Amadeus: Scalable, Privacy-Preserving Live Video Analytics. _arXiv prePrint 2011.05163_.](https://arxiv.org/pdf/2011.05163.pdf)<br>
 [5] [(MIT, Princeton, UChicago and Rutgers) Cangialosi et al. Privid: Practical, Privacy-Preserving Video Analytics Queries. _arXiv prePrint 2106.12083_.](https://arxiv.org/pdf/2106.12083.pdf)
 ## Dataset
