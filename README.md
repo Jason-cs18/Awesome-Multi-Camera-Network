@@ -117,7 +117,9 @@ In the end, I list datasets and useful toolboxes (I will keep maintaining this l
 
 [1] [(TAMU and Adobe Research) Wu et al. Towards Privacy-Preserving Visual Recognition via Adversarial Training: A Pilot Study. In _ECCV'18_.](https://openaccess.thecvf.com/content_ECCV_2018/papers/Zhenyu_Wu_Towards_Privacy-Preserving_Visual_ECCV_2018_paper.pdf)<br>
 [2] [(CMU) Wang et al. Enabling Live Video Analytics with a Scalable and Privacy-Aware Framework. In _2018 ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM'18)_.](https://www.privacyassistant.org/media/publications/tomm2018.pdf)<br>
+[3] [(NUS) Shen et al. Human-imperceptible Privacy Protection Against Machines. In _MM'19_.](https://dl.acm.org/doi/10.1145/3343031.3350963)<br>
 [3] [(PSU and Facebook) Khazbak et al. TargetFinder: Privacy Preserving Target Search through IoT Cameras. In _IoTDI'19_. (Best Paper Award)](http://mcn.cse.psu.edu/paper/youssef/iotdi-youssef19.pdf)<br>
+[4] [(Tsinghua and USTC) Li et al. Invisible: Federated Learning over Non-Informative Intermediate Updates against Multimedia Privacy Leakages. In _MM'20_.](https://dl.acm.org/doi/abs/10.1145/3394171.3413923)<br>
 [3] [(UCB and MSR) Poddar et al. Visor: Privacy-Preserving Video Analytics as a Cloud Service. In _29th	Usenix Security Symposium (Security'20)_.](https://www.usenix.org/conference/usenixsecurity20/presentation/poddar)<br>
 [4] [(NJU, Cornell and MSRA) Wu et al. PECAM: privacy-enhanced video streaming and analytics via securely-reversible transformation. In _MobiCom'21_.](https://dl.acm.org/doi/abs/10.1145/3447993.3448618)<br>
 [4] [(CMU, UCSD and MSR) Dsouza et al. Amadeus: Scalable, Privacy-Preserving Live Video Analytics. _arXiv prePrint 2011.05163_.](https://arxiv.org/pdf/2011.05163.pdf)<br>
