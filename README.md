@@ -125,7 +125,7 @@ In the end, I list datasets and useful toolboxes (I will keep maintaining this l
 [8] [(NJU, Cornell and MSRA) Wu et al. PECAM: privacy-enhanced video streaming and analytics via securely-reversible transformation. In _MobiCom'21_.](https://dl.acm.org/doi/abs/10.1145/3447993.3448618)<br>
 [9] [(CMU, UCSD and MSR) Dsouza et al. Amadeus: Scalable, Privacy-Preserving Live Video Analytics. _arXiv prePrint 2011.05163_.](https://arxiv.org/pdf/2011.05163.pdf)<br>
 [10] [(MIT, Princeton, UChicago and Rutgers) Cangialosi et al. Privid: Practical, Privacy-Preserving Video Analytics Queries. _arXiv prePrint 2106.12083_.](https://arxiv.org/pdf/2106.12083.pdf)<br>
-[11] **read recent privacy-preserving data processing papers published in VLDB and SIGMOD** (to find interesting issues on privacy-preserving video processing).
+[11] read recent privacy-preserving data processing papers published in **VLDB and SIGMOD** (to find interesting issues on privacy-preserving video processing).
 ## Dataset
 1. [Duke MTMC (8 cameras, non-overlapping)](http://vision.cs.duke.edu/DukeMTMC/)
 2. [Nvidia CityFlow (>40 cameras, overlapping and non-overlapping)](https://www.aicitychallenge.org/)
