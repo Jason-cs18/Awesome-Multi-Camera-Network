@@ -115,7 +115,7 @@ In the end, I list datasets and useful toolboxes (I will keep maintaining this l
 | [Tutorial on privacy-preserving data analysis (The Alan Turing Institute)](https://www.turing.ac.uk/research/interest-groups/privacy-preserving-data-analysis)  | todo |
 | [The Second AAAI Workshop on Privacy-Preserving Artificial Intelligence (PPAI-21)](https://ppai21.github.io/)  | todo |
 | [A Dive into Privacy Preserving Machine Learning (OpML'20)](https://www.usenix.org/conference/opml20/presentation/pham) | todo |
-| [CrypTen](https://github.com/facebookresearch/CrypTen) | Privacy Preserving Machine Learning framework, PyTorch, [Multi-Party Computation (MPC)](https://en.wikipedia.org/wiki/Secure_multi-party_computation) |
+| [CrypTen (Facebook AI Research)](https://github.com/facebookresearch/CrypTen) | Privacy Preserving Machine Learning framework, PyTorch, [Multi-Party Computation (MPC)](https://en.wikipedia.org/wiki/Secure_multi-party_computation) |
 
 [1] [(TAMU and Adobe Research) Wu et al. Towards Privacy-Preserving Visual Recognition via Adversarial Training: A Pilot Study. In _ECCV'18_.](https://openaccess.thecvf.com/content_ECCV_2018/papers/Zhenyu_Wu_Towards_Privacy-Preserving_Visual_ECCV_2018_paper.pdf)<br>
 [2] [(CMU) Wang et al. Enabling Live Video Analytics with a Scalable and Privacy-Aware Framework. In _2018 ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM'18)_.](https://www.privacyassistant.org/media/publications/tomm2018.pdf)<br>
