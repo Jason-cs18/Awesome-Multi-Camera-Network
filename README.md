@@ -30,6 +30,7 @@ In the end, I list datasets and useful toolboxes (I will keep maintaining this l
 10. [Ravi Netravali (Princeton, USA)](https://www.cs.princeton.edu/~ravian/) - Edge AI
 11. [Silvio Savarese (Stanford, USA)](https://scholar.google.com/citations?hl=zh-CN&user=ImpbxLsAAAAJ&view_op=list_works&sortby=pubdate) - 3D vision and robotics
 12. [Fengyuan Xu (NJU, CN)](https://cs.nju.edu.cn/fxu/) - the Internet of Video Things (IoVT)
+13. [Hamed Haddadi (ICL, UK)](https://haddadi.github.io/about/) - privacy-preserving edge AI
 ### Labs
 1. [Live Video Analytics (MSR)](https://www.microsoft.com/en-us/research/project/live-video-analytics/)
 2. [Information Processing Lab (Washington)](http://allison.ee.washington.edu/index.htm)
@@ -124,13 +125,14 @@ In the end, I list datasets and useful toolboxes (I will keep maintaining this l
 [5] [(PSU and Facebook) Khazbak et al. TargetFinder: Privacy Preserving Target Search through IoT Cameras. In _IoTDI'19_ (Best Paper Award).](http://mcn.cse.psu.edu/paper/youssef/iotdi-youssef19.pdf)<br>
 [6] [(Tsinghua and USTC) Li et al. Invisible: Federated Learning over Non-Informative Intermediate Updates against Multimedia Privacy Leakages. In _MM'20_.](https://dl.acm.org/doi/abs/10.1145/3394171.3413923)<br>
 [7] [(UCB and MSR) Poddar et al. Visor: Privacy-Preserving Video Analytics as a Cloud Service. In _29th	Usenix Security Symposium (Security'20)_.](https://www.usenix.org/conference/usenixsecurity20/presentation/poddar)<br>
-[8] [(NJU, Cornell and MSRA) Wu et al. PECAM: privacy-enhanced video streaming and analytics via securely-reversible transformation. In _MobiCom'21_.](https://dl.acm.org/doi/abs/10.1145/3447993.3448618)<br>
-[9] [(ASU) Hu et al. LensCap: Split-Process Framework for Fine-Grained Visual Privacy Control for Augmented Reality Apps. In _MobiSys'21_.](https://dl.acm.org/doi/10.1145/3458864.3467676)<br>
-[10] [(CUHK) Ouyang et al. ClusterFL: A Similarity-Aware Federated Learning System for Human Activity Recognition. In _MobiSys'21_.](https://dl.acm.org/doi/10.1145/3458864.3467681)<br>
-[11] [(ICL and Telefonica Research) Mo et al. PPFL: Privacy-preserving Federated Learning with Trusted Execution Environments. In _MobiSys'21_ (Best paper award).](https://dl.acm.org/doi/10.1145/3458864.3466628)<br>
-[12] [(CMU, UCSD and MSR) Dsouza et al. Amadeus: Scalable, Privacy-Preserving Live Video Analytics. _arXiv prePrint 2011.05163_.](https://arxiv.org/pdf/2011.05163.pdf)<br>
-[13] [(MIT, Princeton, UChicago and Rutgers) Cangialosi et al. Privid: Practical, Privacy-Preserving Video Analytics Queries. _arXiv prePrint 2106.12083_.](https://arxiv.org/pdf/2106.12083.pdf)<br>
-[14] read recent privacy-preserving data processing papers published in **VLDB and SIGMOD** (to find interesting issues on privacy-preserving video processing).
+[8] [(ICL, QMUL, Telefónica Research and Samsung AI) DarkneTZ: Towards Model Privacy at the Edge using Trusted Execution Environments. In _MobiSys'20_.](https://www.youtube.com/watch?v=mEAlONq3MU4)<br>
+[9] [(NJU, Cornell and MSRA) Wu et al. PECAM: privacy-enhanced video streaming and analytics via securely-reversible transformation. In _MobiCom'21_.](https://dl.acm.org/doi/abs/10.1145/3447993.3448618)<br>
+[10] [(ASU) Hu et al. LensCap: Split-Process Framework for Fine-Grained Visual Privacy Control for Augmented Reality Apps. In _MobiSys'21_.](https://dl.acm.org/doi/10.1145/3458864.3467676)<br>
+[11] [(CUHK) Ouyang et al. ClusterFL: A Similarity-Aware Federated Learning System for Human Activity Recognition. In _MobiSys'21_.](https://dl.acm.org/doi/10.1145/3458864.3467681)<br>
+[12] [(ICL and Telefonica Research) Mo et al. PPFL: Privacy-preserving Federated Learning with Trusted Execution Environments. In _MobiSys'21_ (Best paper award).](https://dl.acm.org/doi/10.1145/3458864.3466628)<br>
+[13] [(CMU, UCSD and MSR) Dsouza et al. Amadeus: Scalable, Privacy-Preserving Live Video Analytics. _arXiv prePrint 2011.05163_.](https://arxiv.org/pdf/2011.05163.pdf)<br>
+[14] [(MIT, Princeton, UChicago and Rutgers) Cangialosi et al. Privid: Practical, Privacy-Preserving Video Analytics Queries. _arXiv prePrint 2106.12083_.](https://arxiv.org/pdf/2106.12083.pdf)<br>
+[15] read recent privacy-preserving data processing papers published in **VLDB and SIGMOD** (to find interesting issues on privacy-preserving video processing).
 ## Dataset
 1. [Duke MTMC (8 cameras, non-overlapping)](http://vision.cs.duke.edu/DukeMTMC/)
 2. [Nvidia CityFlow (>40 cameras, overlapping and non-overlapping)](https://www.aicitychallenge.org/)
