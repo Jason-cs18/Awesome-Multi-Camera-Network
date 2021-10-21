@@ -30,7 +30,7 @@ In the end, I list datasets and useful toolboxes (I will keep maintaining this l
 10. [Ravi Netravali (Princeton, USA)](https://www.cs.princeton.edu/~ravian/) - Edge AI
 11. [Silvio Savarese (Stanford, USA)](https://scholar.google.com/citations?hl=zh-CN&user=ImpbxLsAAAAJ&view_op=list_works&sortby=pubdate) - 3D vision and robotics
 12. [Fengyuan Xu (NJU, CN)](https://cs.nju.edu.cn/fxu/) - the Internet of Video Things (IoVT)
-13. [Hamed Haddadi (ICL, UK)](https://haddadi.github.io/about/) - privacy-preserving edge AI
+13. [Hamed Haddadi (ICL, UK)](https://haddadi.github.io/about/) - Privacy-preserving edge AI
 ### Labs
 1. [Live Video Analytics (MSR)](https://www.microsoft.com/en-us/research/project/live-video-analytics/)
 2. [Information Processing Lab (Washington)](http://allison.ee.washington.edu/index.htm)
