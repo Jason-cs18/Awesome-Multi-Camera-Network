@@ -42,8 +42,9 @@ In the end, I list datasets and useful toolboxes (I will keep maintaining this l
 1. [The 3rd Workshop on Hot Topics in Video Analytics and Intelligent Edges (*ACM MobiCom'21*)](https://www.microsoft.com/en-us/research/event/the-3rd-workshop-on-hot-topics-in-video-analytics-and-intelligent-edges/#!call-for-papers) - focus on deep learning based video analytics.
 ### Courses
 1. [CS231A: Computer Vision, From 3D Reconstruction to Recognition (Winter 2021, Stanford)](https://web.stanford.edu/class/cs231a/) - focus on basic concepts behind many computer vision tasks across multi-camera networks (camera models, calibration, single- and multiple-view geometry, stereo systems, sfm, stereo, matching, depth estimation, optical flow and optimal estimation). 
-2. [CS239: ML-driven Video Analytics Systems (Fall 2020, UCLA)](http://web.cs.ucla.edu/~ravi/CS239_F20/index.html) - target to recent research interests on video analytics (_Strong Recommendation_)
-3. [CS34702 Topics in Networks: Machine Learning for Networking and Systems (Fall 2020, UChicago)](https://people.cs.uchicago.edu/~junchenj/34702-f20/syllabus.html) - target to awesome recent research works on netwoking system (_video streaming and cloud scheduing_ are recommended)
+2. [CS239: ML-driven Video Analytics Systems (Fall 2020, UCLA)](http://web.cs.ucla.edu/~ravi/CS239_F20/index.html) - target to recent research interests on video analytics (_Strong Recommendation_).
+3. [CS34702 Topics in Networks: Machine Learning for Networking and Systems (Fall 2020, UChicago)](https://people.cs.uchicago.edu/~junchenj/34702-f20/syllabus.html) - target to awesome recent research works on netwoking system (_video streaming and cloud scheduing_ are recommended).
+4. [CS6465: Emerging Cloud Technologies and Systems Challenges (Fall 2019, Cornell)](https://www.cs.cornell.edu/courses/cs6465/2019fa/) - focus on basic concepts behind existing edge-AI (although most papers are published before 2019 and related with infrastructure, reading them will help us to get/understand key issues of current Edge-AI).
 ## Research directions
 ### Camera calibration
 [1] [Calibration Wizard: A Guidance System for Camera Calibration Based on Modeling Geometric and Corner Uncertainty. In *ICCV'19*.](https://arxiv.org/pdf/1811.03264.pdf)
