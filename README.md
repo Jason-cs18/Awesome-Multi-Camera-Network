@@ -31,6 +31,7 @@ In the end, I list datasets and useful toolboxes (I will keep maintaining this l
 11. [Silvio Savarese (Stanford, USA)](https://scholar.google.com/citations?hl=zh-CN&user=ImpbxLsAAAAJ&view_op=list_works&sortby=pubdate) - 3D vision and robotics
 12. [Fengyuan Xu (NJU, CN)](https://cs.nju.edu.cn/fxu/) - the Internet of Video Things (IoVT) and **Privacy-preserving edge AI**
 13. [Hamed Haddadi (ICL, UK)](https://haddadi.github.io/about/) - **Privacy-preserving edge AI**
+14. [Lin Wang (VU Amsterdam)](https://linwang.info/) - edge AI inference
 ### Labs
 1. [Live Video Analytics (MSR)](https://www.microsoft.com/en-us/research/project/live-video-analytics/)
 2. [Information Processing Lab (Washington)](http://allison.ee.washington.edu/index.htm)
@@ -38,8 +39,10 @@ In the end, I list datasets and useful toolboxes (I will keep maintaining this l
 4. [Vision Research Lab (UCSB)](https://vision.ece.ucsb.edu/)
 5. [Audio-visual Signal processing and Communication Systems (Berkeley)](https://people.eecs.berkeley.edu/~kannanr/about.html)
 6. [Human-Centered Computer Systems Lab (SNU)](https://hcs.snu.ac.kr/)
-### Workshops
+### Workshops and reading lists (on video analytics)
 1. [The 3rd Workshop on Hot Topics in Video Analytics and Intelligent Edges (*ACM MobiCom'21*)](https://www.microsoft.com/en-us/research/event/the-3rd-workshop-on-hot-topics-in-video-analytics-and-intelligent-edges/#!call-for-papers) - focus on deep learning based video analytics.
+2. [Video Stream Analytics Reading List (VU Amsterdam)](https://linwang.info/publications/) - general, edge-cloud hybrid, edge-based, cloud-based, privacy and camera virtualization.
+3. [Literature of video streaming research (stony brook)](https://github.com/VideoForage/Video-Lit) - video streaming
 ### Courses
 1. [CS231A: Computer Vision, From 3D Reconstruction to Recognition (Winter 2021, Stanford)](https://web.stanford.edu/class/cs231a/) - focus on basic concepts behind many computer vision tasks across multi-camera networks (camera models, calibration, single- and multiple-view geometry, stereo systems, sfm, stereo, matching, depth estimation, optical flow and optimal estimation). 
 2. [CS239: ML-driven Video Analytics Systems (Fall 2020, UCLA)](http://web.cs.ucla.edu/~ravi/CS239_F20/index.html) - target to recent research interests on video analytics (_Strong Recommendation_).
