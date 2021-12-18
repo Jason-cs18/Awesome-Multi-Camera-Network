@@ -18,36 +18,42 @@ In the end, I list datasets and useful toolboxes (I will keep maintaining this l
 [4] [Zhang et al. Deep Learning in Mobile and Wireless Networking: A Survey. IEEE TRANS 2019.](https://arxiv.org/pdf/1803.04311.pdf)
 ## Researchers, labs and workshops
 ### Researchers (organization and research interests)
-1. [Ganesh Ananthanarayanan (MSR, USA)](https://www.microsoft.com/en-us/research/people/ga/) - Live video analytics, distributed computing
-2. [Yuanchao Shu (MSR, USA)](https://www.microsoft.com/en-us/research/people/yushu/) - Live video analytics, location-based systems
-3. [Andrea Cavallaro (QMUL, ENG)](http://www.eecs.qmul.ac.uk/~andrea/) - Low-level vision tasks across camera networks, multi-modal fusion, **privacy-aware video analytics (based on adversarial-training/learning)**
-4. [Amit K. Roy-Chowdhury (UC Riverside, USA)](https://vcg.engr.ucr.edu/people/amit-roy-chowdhury) - Deep learning based video analytics (tracking, reID, super-resolution and domain adaptation)
-5. [Jenq-Neng Hwang (UW, USA)](https://people.ece.uw.edu/hwang/) - Deep learning based video analytics (tracking, reID, localization, visual odometry)
-6. [Hamid K. Aghajan (UGent, BE)](https://dblp.org/pers/a/Aghajan:Hamid_K=.html) - Video analytics across multi-cameras
-7. [Umakishore Ramachandran (Gatech, USA)](https://www.cc.gatech.edu/~rama/) - Edge AI (OS, kernel)
-8. [Youngki Lee (SNU, KR)](http://youngkilee.blogspot.com/) - Edge AI and AR/VR
-9. [Juncheng Jiang (UChicago, USA)](https://people.cs.uchicago.edu/~junchenj/) - Video streaming
-10. [Ravi Netravali (Princeton, USA)](https://www.cs.princeton.edu/~ravian/) - Edge AI
+1. [Ganesh Ananthanarayanan (Microsoft Research, USA)](https://www.microsoft.com/en-us/research/people/ga/) - live video analytics, distributed computing
+2. [Yuanchao Shu (Microsoft Research, USA)](https://www.microsoft.com/en-us/research/people/yushu/) - live video analytics, location-based systems
+3. [Andrea Cavallaro (Queen Mary University of London, UK)](http://www.eecs.qmul.ac.uk/~andrea/) - low-level vision tasks across camera networks, multi-modal fusion, **privacy-aware video analytics (based on adversarial-training/learning)**
+4. [Amit K. Roy-Chowdhury (UC Riverside, USA)](https://vcg.engr.ucr.edu/people/amit-roy-chowdhury) - deep learning based video analytics (tracking, reID, super-resolution and domain adaptation)
+5. [Jenq-Neng Hwang (University of Washington, USA)](https://people.ece.uw.edu/hwang/) - deep learning based video analytics (tracking, reID, localization, visual odometry)
+6. [Hamid K. Aghajan (Ghent University, Belgium)](https://dblp.org/pers/a/Aghajan:Hamid_K=.html) - video analytics across multi-cameras
+7. [Umakishore Ramachandran (Georgia Institute of Technology, USA)](https://www.cc.gatech.edu/~rama/) - edge AI (OS, kernel)
+8. [Youngki Lee (Seoul National University, Seoul)](http://youngkilee.blogspot.com/) - edge AI and AR/VR
+9. [Juncheng Jiang (The University of Chicago, USA)](https://people.cs.uchicago.edu/~junchenj/) - video streaming
+10. [Ravi Netravali (Princeton, USA)](https://www.cs.princeton.edu/~ravian/) - edge AI
 11. [Silvio Savarese (Stanford, USA)](https://scholar.google.com/citations?hl=zh-CN&user=ImpbxLsAAAAJ&view_op=list_works&sortby=pubdate) - 3D vision and robotics
-12. [Fengyuan Xu (NJU, CN)](https://cs.nju.edu.cn/fxu/) - the Internet of Video Things (IoVT) and **Privacy-preserving edge AI**
-13. [Hamed Haddadi (ICL, UK)](https://haddadi.github.io/about/) - **Privacy-preserving edge AI**
-14. [Lin Wang (VU Amsterdam)](https://linwang.info/) - edge AI inference
+12. [Fengyuan Xu (Nanjing University, China)](https://cs.nju.edu.cn/fxu/) - the Internet of Video Things (IoVT) and **privacy-preserving edge AI**
+13. [Hamed Haddadi (Imperial College London, UK)](https://haddadi.github.io/about/) - **privacy-preserving edge AI**
+14. [Lin Wang (Vrije Universiteit Amsterdam, Nederland)](https://linwang.info/) - edge AI inference
+15. [Ying Wu (Northwestern, USA)](http://users.eecs.northwestern.edu/~yingwu/) - ai algorithms (tracking, detection, reID and segmentation) in camera networks
+16. [Gaoang Wang (Zhejiang University, China)](https://www.vipazoo.cn/people/gaoangwang) - scene-aware multi-object tracking
+17. [Haibin Ling (Stony Brook University, USA)](https://www3.cs.stonybrook.edu/~hling/) - visual tracking in drones
+18. [Mubarak Shah (University of Central Florida, USA)](https://www.crcv.ucf.edu/person/mubarak-shah/) - zero/few-shot learning in video based tracking/segmentation/action recognition
+19. [Ming-Hsuan Yang (UC Merced, USA)](https://faculty.ucmerced.edu/mhyang/) - low-resources (data or compute) learning for tracking/detection/segmentation
 ### Labs
-1. [Live Video Analytics (MSR)](https://www.microsoft.com/en-us/research/project/live-video-analytics/)
-2. [Information Processing Lab (Washington)](http://allison.ee.washington.edu/index.htm)
-3. [Video Computing Group (UC Riverside)](https://vcg.engr.ucr.edu/)
-4. [Vision Research Lab (UCSB)](https://vision.ece.ucsb.edu/)
-5. [Audio-visual Signal processing and Communication Systems (Berkeley)](https://people.eecs.berkeley.edu/~kannanr/about.html)
-6. [Human-Centered Computer Systems Lab (SNU)](https://hcs.snu.ac.kr/)
+1. [Live Video Analytics (Microsoft Research, USA)](https://www.microsoft.com/en-us/research/project/live-video-analytics/)
+2. [Information Processing Lab (University of Washington, USA)](http://allison.ee.washington.edu/index.htm)
+3. [Video Computing Group (UC Riverside, USA)](https://vcg.engr.ucr.edu/)
+4. [Vision Research Lab (UC Santa Barbara, USA)](https://vision.ece.ucsb.edu/)
+5. [Audio-visual Signal processing and Communication Systems (UC Berkeley, USA)](https://people.eecs.berkeley.edu/~kannanr/about.html)
+6. [Human-Centered Computer Systems Lab (Seoul National University, Seoul)](https://hcs.snu.ac.kr/)
 ### Workshops and reading lists (on video analytics)
-1. [The 3rd Workshop on Hot Topics in Video Analytics and Intelligent Edges (*ACM MobiCom'21*)](https://www.microsoft.com/en-us/research/event/the-3rd-workshop-on-hot-topics-in-video-analytics-and-intelligent-edges/#!call-for-papers) - focus on deep learning based video analytics.
-2. [Video Stream Analytics Reading List (VU Amsterdam)](https://linwang.info/publications/) - general, edge-cloud hybrid, edge-based, cloud-based, privacy and camera virtualization.
-3. [Literature of video streaming research (stony brook)](https://github.com/VideoForage/Video-Lit) - video streaming
+1. [The 3rd Workshop on Hot Topics in Video Analytics and Intelligent Edges (*ACM MobiCom'21*)](https://www.microsoft.com/en-us/research/event/the-3rd-workshop-on-hot-topics-in-video-analytics-and-intelligent-edges/#!call-for-papers) - focus on deep learning based video analytics
+2. [Multi-camera Multiple People Tracking Workshop (*IEEE ICCV'21*)](https://iccv2021-mmp.github.io/) - track multiple people from indoor scenes using multiple RGB cameras
+3. [Multimedia Systems Conference (*ACM MMSys'21*)](https://2021.acmmmsys.org/program.php#overview) - contain multiple topics in video analysis
+<!-- 2. [Video Stream Analytics Reading List (Vrije Universiteit Amsterdam)](https://linwang.info/publications/) - general, edge-cloud hybrid, edge-based, cloud-based, privacy and camera virtualization.
+3. [Literature of video streaming research (Stony Brook)](https://github.com/VideoForage/Video-Lit) - video streaming -->
 ### Courses
 1. [CS231A: Computer Vision, From 3D Reconstruction to Recognition (Winter 2021, Stanford)](https://web.stanford.edu/class/cs231a/) - focus on basic concepts behind many computer vision tasks across multi-camera networks (camera models, calibration, single- and multiple-view geometry, stereo systems, sfm, stereo, matching, depth estimation, optical flow and optimal estimation). 
 2. [CS239: ML-driven Video Analytics Systems (Fall 2020, UCLA)](http://web.cs.ucla.edu/~ravi/CS239_F20/index.html) - target to recent research interests on video analytics (_Strong Recommendation_).
 3. [CS34702 Topics in Networks: Machine Learning for Networking and Systems (Fall 2020, UChicago)](https://people.cs.uchicago.edu/~junchenj/34702-f20/syllabus.html) - target to awesome recent research works on netwoking system (_video streaming and cloud scheduing_ are recommended).
-4. [CS6465: Emerging Cloud Technologies and Systems Challenges (Fall 2019, Cornell)](https://www.cs.cornell.edu/courses/cs6465/2019fa/) - focus on basic concepts behind existing edge-AI (although most papers are published before 2019 and related with infrastructure, reading them will help us to get/understand key issues of current Edge-AI).
 ## Research directions
 ### Camera calibration
 [1] [Calibration Wizard: A Guidance System for Camera Calibration Based on Modeling Geometric and Corner Uncertainty. In *ICCV'19*.](https://arxiv.org/pdf/1811.03264.pdf)
