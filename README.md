@@ -5,7 +5,7 @@
 Note: specific vision algorithms (tracking, object detection, segmentation and action recognition) are not collected in this note. If you want to learn or try them, you can refer to [SenseTime-CHUK Open-MMLab](https://github.com/open-mmlab/mmcv), which provides a suit of toolboxes to help AI researcher/engineers implement vision algorithms. For example, you can try 50+ image-based object detection models using the same [mmdetection](https://mmdetection.readthedocs.io/en/latest/) API and try 10+ video-based object detection methods using the same [mmtracking](https://github.com/open-mmlab/mmtracking) API. 
 ## Outline
 - [Book and Survey](#Book-and-Survey) - a starting point to understand basic concepts behind multi-camera networks
-- [Researchers and Workshops/Courses](#Researchers-and-Workshops/Courses) - follow them to get recent research trends in multi-camera networks
+- [Researchers, Workshops and Courses](#Researchers-and-Workshops&Courses) - follow them to get recent research trends in multi-camera networks
 - [Topics](#Topics) - group recent papers in different sub-topics (*i.e.,* Camera calibration)
   - [System](#System)
     - [Edge video analytics](#Edge-video-analytics) - speed up analysis pipeline
@@ -27,7 +27,7 @@ Note: specific vision algorithms (tracking, object detection, segmentation and a
 4. [Wang et al. Intelligent multi-camera video surveillance: a review. 2012.](https://dl.acm.org/citation.cfm?id=2397216)<br>
 5. [Ye et al. Wireless Video Surveillance: A Survey. 2013.](https://www.researchgate.net/publication/270767766_Wireless_Video_Surveillance_A_Survey)<br>
 6. [Zhang et al. Deep Learning in Mobile and Wireless Networking: A Survey. IEEE TRANS 2019.](https://arxiv.org/pdf/1803.04311.pdf)
-## Researchers and Workshops/Courses
+## Researchers and Workshops&Courses
 ### Researchers (organization and research interests)
 - System (live video analytics, distributed computing, video streaming, privacy, collaborative/continual learning)
   - [Ganesh Ananthanarayanan (Microsoft Research, USA)](https://www.microsoft.com/en-us/research/people/ga/) - live video analytics, distributed computing
