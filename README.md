@@ -8,14 +8,16 @@ Inspired by [book](https://dl.acm.org/citation.cfm?id=1643746), I collect papers
 5. [**Privacy**](#Privacy) (for privacy-preserving inference/training/transmission).
 
 In the end, I list datasets and useful toolboxes (I will keep maintaining this list).
-## Book
+## Outline
+- [Book and Survey](#Book-and-Survey) - a starting point to understand basic concepts behind multi-camera networks
+- xx
+## Book and Survey
 1. [Multi-Camera Networks: Principles and Applications. 2005.](https://dl.acm.org/citation.cfm?id=1643746)
 2. [Camera Networks: The Acquisition and Analysis of Videos over Wide Areas (Synthesis Lectures on Computer Vision). 2012.](https://epdf.pub/camera-networks-the-acquisition-and-analysis-of-videos-overwide-areas.html)
-## Survey
-[1] [M.Valera et al. Intelligent distributed surveillance systems: a review. 2005.](https://pdfs.semanticscholar.org/ce96/43fbfcb9c3156c7b26b5c92ec3bc67111202.pdf)<br>
-[2] [Wang et al. Intelligent multi-camera video surveillance: a review. 2012.](https://dl.acm.org/citation.cfm?id=2397216)<br>
-[3] [Ye et al. Wireless Video Surveillance: A Survey. 2013.](https://www.researchgate.net/publication/270767766_Wireless_Video_Surveillance_A_Survey)<br>
-[4] [Zhang et al. Deep Learning in Mobile and Wireless Networking: A Survey. IEEE TRANS 2019.](https://arxiv.org/pdf/1803.04311.pdf)
+3. [M.Valera et al. Intelligent distributed surveillance systems: a review. 2005.](https://pdfs.semanticscholar.org/ce96/43fbfcb9c3156c7b26b5c92ec3bc67111202.pdf)<br>
+4. [Wang et al. Intelligent multi-camera video surveillance: a review. 2012.](https://dl.acm.org/citation.cfm?id=2397216)<br>
+5. [Ye et al. Wireless Video Surveillance: A Survey. 2013.](https://www.researchgate.net/publication/270767766_Wireless_Video_Surveillance_A_Survey)<br>
+6. [Zhang et al. Deep Learning in Mobile and Wireless Networking: A Survey. IEEE TRANS 2019.](https://arxiv.org/pdf/1803.04311.pdf)
 ## Researchers, labs and workshops
 ### Researchers (organization and research interests)
 1. [Ganesh Ananthanarayanan (Microsoft Research, USA)](https://www.microsoft.com/en-us/research/people/ga/) - live video analytics, distributed computing
