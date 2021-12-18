@@ -3,7 +3,7 @@ Multi-camera Networks research notes. **Target venues**: network conferences (*N
 Unlike [book](https://dl.acm.org/citation.cfm?id=1643746), I collect papers from system and AI perspective, respectively. To avoid diving into details of specific vision tasks (*eg.,* object detection), I only list **low-resource learning**, **domain adaptation & continual learning** and **dynamic deep neural networks** in [AI Algorithm](#AI-Algorithm) because I think these three topics are generalized on all vision tasks and are useful to help us deploy deep learning based vision applications. In the end, I list datasets and useful toolboxes.
 ## Outline
 - [Book and Survey](#Book-and-Survey) - a starting point to understand basic concepts behind multi-camera networks
-- [Researchers and Workshops/Courses](#Researchers-and-Workshops/Courses) - follow them to get current research trends in multi-camera networks
+- [Researchers and Workshops/Courses](#Researchers-and-Workshops/Courses) - follow them to get recent research trends in multi-camera networks
 - [Topics](#Topics) - group recent papers in different sub-topics (*i.e.,* Camera calibration)
   - [System](#System)
     - [Edge video analytics](#Edge-video-analytics) - speed up analysis pipeline
