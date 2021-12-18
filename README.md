@@ -1,22 +1,23 @@
 # Multi-Camera Networks
 Multi-camera Networks research notes. **Target venues**: network conferences (*NSDI/SIGCOMM*), mobile conferences (*MobiCom/MobiSys/SenSys/UbiComp*) and computer vision conferences (*ICCV/CVPR/ECCV*).<br>
-Inspired by [book](https://dl.acm.org/citation.cfm?id=1643746), I collect papers from four topics in research opportunities: 
-1. Camera Calibration. 
-2. AI Applications (surveilliance systems, multi-view collaboration, **multi-camera collaboration**, efficient object detection, automatic labeling, **MTMC tracking**). 
-3. Video Compression (for efficient communication). 
-4. Database (for fast indexing).
-5. [**Privacy**](#Privacy) (for privacy-preserving inference/training/transmission).
-
-In the end, I list datasets and useful toolboxes (I will keep maintaining this list).
+Unlike [book](https://dl.acm.org/citation.cfm?id=1643746), I collect papers from system and AI perspective, respectively. To avoid dive into details about vision tasks, I only collect **low-resource learning**, **domain adaptation & continual learning** and **dynamic deep neural networks** from AI venues because I think these are suitable for all vision tasks and are important to deploy deep learning based vision applications to multi-camera networks. In the end, I list datasets and useful toolboxes for fast implement research ideas on benchmarks.
 ## Outline
 - [Book and Survey](#Book-and-Survey) - a starting point to understand basic concepts behind multi-camera networks
-- [Researchers and Workshops/Courses](#Researchers and Workshops/Courses) - follow them to get current research trends in multi-camera networks
+- [Researchers and Workshops/Courses](#Researchers-and-Workshops/Courses) - follow them to get current research trends in multi-camera networks
 - [Topics](#Topics) - group recent papers in different sub-topics (*i.e.,* Camera calibration)
   - [System](#System)
-    - [Edge video analytics](#Edge-video-analytics)
-    - [Database](#Database)
+    - [Edge video analytics](#Edge-video-analytics) - speed up analysis pipeline
+    - [Database](#Database) - xxx
+    - [Video streaming](#Video-streaming) - xxx
+    - [Resource-aware video analytics](#Resource-aware-video-analytics) - xxx
+    - [Multi-Camera Collaboration](#Multi-Camera-Collaboration) - xxx
+    - [Privacy](#Privacy) - data privacy, model privacy and computation privacy
   - [AI Algorithm](#AI-Algorithm)
-  - 
+    - [Low-resource learning](#Low-resource-learning) - xxx
+    - [Domain adaptation and continual learning](#Domain-adaptation-and-continual-learning) - xxx
+    - [Dynamic deep neural networks](#Dynamic-deep-neural-networks) - xxx
+- [Dataset](#Dataset) - test your ideas on popular datasets
+- [Toolbox](#Toolbox) - verify your ideas quickly using toolbox
 ## Book and Survey
 1. [Multi-Camera Networks: Principles and Applications. 2005.](https://dl.acm.org/citation.cfm?id=1643746)
 2. [Camera Networks: The Acquisition and Analysis of Videos over Wide Areas (Synthesis Lectures on Computer Vision). 2012.](https://epdf.pub/camera-networks-the-acquisition-and-analysis-of-videos-overwide-areas.html)
@@ -65,12 +66,12 @@ In the end, I list datasets and useful toolboxes (I will keep maintaining this l
 [3] [Du et al. Server-Driven Video Streaming for Deep Learning Inference. In *SIGCOMM'20*.](https://dl.acm.org/doi/pdf/10.1145/3387514.3405887)<br>
 [4] [Han et al. ViVo: Visibility-aware Mobile Volumetric Video Streamin. In *MobiCom'20*.](https://dl.acm.org/doi/10.1145/3372224.3380888)<br>
 [5] [Zhang et al. SENSEI: Aligning Video Streaming Quality with Dynamic User Sensitivity. In *NSDI'21*.](https://www.usenix.org/conference/nsdi21/presentation/zhang-xu)<br>
-#### Resource-aware video surveillance systems
+#### Resource-aware video analytics
 [1] [Zhang et al. The Design and Implementation of a Wireless Video Surveillance System. In *MobiCom'15*.](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/08/Bahl-MobiCom-2015.pdf)<br>
 [2] [Xu et al. Approximate Query Service on Autonomous IoT Cameras. In *MobiSys'20*.](https://arxiv.org/pdf/1909.00841.pdf)<br>
 [3] [Bhardwaj et al. Ekya: Continuous Learning of Video Analytics Models on Edge Compute Servers. In *NSDI'22*.](https://arxiv.org/abs/2012.10557) - target to solve when to retrain models and how to reduce resource usage for multi-tasks (many inference and retraining tasks). <br>
 [4] [Suprem et al. ODIN: Automated Drift Detection and Recovery in Video Analytics. In *VLDB'21*.](http://www.vldb.org/pvldb/vol13/p2453-suprem.pdf) - target to detect domain drift and update corresponding models automatically. 
-#### Multi-Camera Collaboration (exploring collaboration in a large camera networks, such as drone networks)
+#### Multi-Camera Collaboration
 [1] [Jain et al. Scaling Video Analytics Systems to Large Camera Deployments. In *HotMobile'19*.](https://rtcl.eecs.umich.edu/yuanchao/paper/hotmobile19video.pdf)<br>
 [2] [Liu et al. Who2com: Collaborative Perception via Learnable Handshake Communication. In *ICRA'20*.](https://arxiv.org/abs/2003.09575)<br>
 [3] [Liu et al. When2com: Multi-Agent Perception via Communication Graph Grouping. In *CVPR'20*.](http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_When2com_Multi-Agent_Perception_via_Communication_Graph_Grouping_CVPR_2020_paper.pdf)<br>
@@ -101,6 +102,8 @@ In the end, I list datasets and useful toolboxes (I will keep maintaining this l
 #### Low-resource learning
 [1] [H. Aghdam et al. Active Learning for Deep Detection Neural Networks. In *ICCV'19*.](http://openaccess.thecvf.com/content_ICCV_2019/papers/Aghdam_Active_Learning_for_Deep_Detection_Neural_Networks_ICCV_2019_paper.pdf) [Public Code](https://gitlab.com/haghdam/deep_active_learning) [Note](https://github.com/YanLu-nyu/Awesome-Multi-Camera-Network/blob/master/Automatic_Labeling.md)
 #### Domain adaptation and continual learning
+xxx
+#### Dynamic deep neural networks
 xxx
 ## Dataset
 1. [Duke MTMC (8 cameras, non-overlapping)](http://vision.cs.duke.edu/DukeMTMC/)
