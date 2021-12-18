@@ -20,25 +20,23 @@ In the end, I list datasets and useful toolboxes (I will keep maintaining this l
 6. [Zhang et al. Deep Learning in Mobile and Wireless Networking: A Survey. IEEE TRANS 2019.](https://arxiv.org/pdf/1803.04311.pdf)
 ## Researchers, labs and workshops
 ### Researchers (organization and research interests)
-1. [Ganesh Ananthanarayanan (Microsoft Research, USA)](https://www.microsoft.com/en-us/research/people/ga/) - live video analytics, distributed computing
-2. [Yuanchao Shu (Microsoft Research, USA)](https://www.microsoft.com/en-us/research/people/yushu/) - live video analytics, location-based systems
-3. [Andrea Cavallaro (Queen Mary University of London, UK)](http://www.eecs.qmul.ac.uk/~andrea/) - low-level vision tasks across camera networks, multi-modal fusion, **privacy-aware video analytics (based on adversarial-training/learning)**
-4. [Amit K. Roy-Chowdhury (UC Riverside, USA)](https://vcg.engr.ucr.edu/people/amit-roy-chowdhury) - deep learning based video analytics (tracking, reID, super-resolution and domain adaptation)
-5. [Jenq-Neng Hwang (University of Washington, USA)](https://people.ece.uw.edu/hwang/) - deep learning based video analytics (tracking, reID, localization, visual odometry)
-6. [Hamid K. Aghajan (Ghent University, Belgium)](https://dblp.org/pers/a/Aghajan:Hamid_K=.html) - video analytics across multi-cameras
-7. [Umakishore Ramachandran (Georgia Institute of Technology, USA)](https://www.cc.gatech.edu/~rama/) - edge AI (OS, kernel)
-8. [Youngki Lee (Seoul National University, Seoul)](http://youngkilee.blogspot.com/) - edge AI and AR/VR
-9. [Juncheng Jiang (The University of Chicago, USA)](https://people.cs.uchicago.edu/~junchenj/) - video streaming
-10. [Ravi Netravali (Princeton, USA)](https://www.cs.princeton.edu/~ravian/) - edge AI
-11. [Silvio Savarese (Stanford, USA)](https://scholar.google.com/citations?hl=zh-CN&user=ImpbxLsAAAAJ&view_op=list_works&sortby=pubdate) - 3D vision and robotics
-12. [Fengyuan Xu (Nanjing University, China)](https://cs.nju.edu.cn/fxu/) - the Internet of Video Things (IoVT) and **privacy-preserving edge AI**
-13. [Hamed Haddadi (Imperial College London, UK)](https://haddadi.github.io/about/) - **privacy-preserving edge AI**
-14. [Lin Wang (Vrije Universiteit Amsterdam, Nederland)](https://linwang.info/) - edge AI inference
-15. [Ying Wu (Northwestern, USA)](http://users.eecs.northwestern.edu/~yingwu/) - ai algorithms (tracking, detection, reID and segmentation) in camera networks
-16. [Gaoang Wang (Zhejiang University, China)](https://www.vipazoo.cn/people/gaoangwang) - scene-aware multi-object tracking
-17. [Haibin Ling (Stony Brook University, USA)](https://www3.cs.stonybrook.edu/~hling/) - visual tracking in drones
-18. [Mubarak Shah (University of Central Florida, USA)](https://www.crcv.ucf.edu/person/mubarak-shah/) - zero/few-shot learning in video based tracking/segmentation/action recognition
-19. [Ming-Hsuan Yang (UC Merced, USA)](https://faculty.ucmerced.edu/mhyang/) - low-resources (data or compute) learning for tracking/detection/segmentation
+- System (live video analytics, distributed computing, video streaming, privacy, collaborative/continual learning)
+  - [Ganesh Ananthanarayanan (Microsoft Research, USA)](https://www.microsoft.com/en-us/research/people/ga/) - live video analytics, distributed computing
+  - [Yuanchao Shu (Microsoft Research, USA)](https://www.microsoft.com/en-us/research/people/yushu/) - live video analytics, collobarative/continual learning
+  - [Feng Qian (University of Minnesota Twin Cities, USA)](https://www-users.cse.umn.edu/~fengqian/pub.html) - video streaming
+  - [Juncheng Jiang (The University of Chicago, USA)](https://people.cs.uchicago.edu/~junchenj/) - video streaming
+  - [Ravi Netravali (Princeton, USA)](https://www.cs.princeton.edu/~ravian/) - edge AI
+  - [Fengyuan Xu (Nanjing University, China)](https://cs.nju.edu.cn/fxu/) - the Internet of Video Things (IoVT) and **privacy-preserving edge AI**
+- Deep based algorithms (tracking, object detection, segmentation and action recognition)
+  - [Andrea Cavallaro (Queen Mary University of London, UK)](http://www.eecs.qmul.ac.uk/~andrea/) - multi-modal fusion, **privacy-aware video analytics (based on adversarial-training/learning)**
+  - [Amit K. Roy-Chowdhury (UC Riverside, USA)](https://vcg.engr.ucr.edu/people/amit-roy-chowdhury) - tracking, reID, super-resolution and domain adaptation
+  - [Jenq-Neng Hwang (University of Washington, USA)](https://people.ece.uw.edu/hwang/) - tracking, reID, localization and visual odometry
+  - [Hamed Haddadi (Imperial College London, UK)](https://haddadi.github.io/about/) - **privacy-preserving edge AI**
+  - [Ying Wu (Northwestern, USA)](http://users.eecs.northwestern.edu/~yingwu/) - tracking, detection, reID and segmentation
+  - [Gaoang Wang (Zhejiang University, China)](https://www.vipazoo.cn/people/gaoangwang) - scene-aware multi-object tracking
+  - [Haibin Ling (Stony Brook University, USA)](https://www3.cs.stonybrook.edu/~hling/) - visual tracking in drones
+  - [Mubarak Shah (University of Central Florida, USA)](https://www.crcv.ucf.edu/person/mubarak-shah/) - zero/few-shot learning in video based tracking/segmentation/action recognition
+  - [Ming-Hsuan Yang (UC Merced, USA)](https://faculty.ucmerced.edu/mhyang/) - low-resources (data or compute) learning for tracking/detection/segmentation
 ### Labs
 1. [Live Video Analytics (Microsoft Research, USA)](https://www.microsoft.com/en-us/research/project/live-video-analytics/)
 2. [Information Processing Lab (University of Washington, USA)](http://allison.ee.washington.edu/index.htm)
