@@ -36,6 +36,7 @@ Note: specific vision algorithms (tracking, object detection, segmentation and a
   - [Juncheng Jiang (The University of Chicago, USA)](https://people.cs.uchicago.edu/~junchenj/) - video streaming
   - [Ravi Netravali (Princeton, USA)](https://www.cs.princeton.edu/~ravian/) - edge video AI
   - [Fengyuan Xu (Nanjing University, China)](https://cs.nju.edu.cn/fxu/) - the Internet of Video Things (IoVT) and **privacy-preserving edge AI**
+  - [Shivaram Venkataraman (University of Wisconsin-Madison, USA)](https://shivaram.org/#pubs) - real-time video processing
 - Deep based algorithms (tracking, object detection, segmentation and action recognition)
   - [Andrea Cavallaro (Queen Mary University of London, UK)](http://www.eecs.qmul.ac.uk/~andrea/) - multi-modal fusion, **privacy-aware video analytics (based on adversarial-training/learning)**
   - [Amit K. Roy-Chowdhury (UC Riverside, USA)](https://vcg.engr.ucr.edu/people/amit-roy-chowdhury) - tracking, reID, super-resolution and domain adaptation
