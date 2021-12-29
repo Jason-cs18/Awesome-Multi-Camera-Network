@@ -15,7 +15,7 @@ Note: specific vision algorithms (tracking, object detection, segmentation and a
     - [Multi-Camera Collaboration](#Multi-Camera-Collaboration) - improve performance and reduce deployments' cost
     - [Privacy](#Privacy) - data privacy, model privacy and computation privacy
   - [AI Algorithm](#AI-Algorithm)
-    - [Low-resource learning](#Low-resource-learning) - efficient learning
+    - [Low-resource learning](#Low-resource-learning) - efficient learning under limited data/annotations/computation/(time)
     - [Domain adaptation and continual learning](#Domain-adaptation-and-continual-learning) - robustness and sustainability 
     - [Dynamic deep neural networks](#Dynamic-deep-neural-networks) - computing flexibility
 - [Dataset](#Dataset) - test your ideas on popular datasets
@@ -119,3 +119,5 @@ xxx
 ## Toolbox
 1. [CHUK-mmcv](https://github.com/open-mmlab/mmcv): a foundational python library for computer vision research and supports many research projects (2D/3D detection, semantic segmentation, image and video editing, pose estimation, action understanding and image classification).
 2. [JDCV-fastreid](https://github.com/JDAI-CV/fast-reid): a python library implementing SOTA re-identification methods (including pedestrian and vehicle re-identification). They also provided a good documentation.
+3. [Cheetah](https://github.com/YanLu-nyu/Cheetah): an end-to-end deep learning based prediction serving server that speeds up deployment of image classification, object detection, segmentation and tracking techniques, which is based on NVIDIA Trition server and docker.
+4. [Chameleon](https://github.com/YanLu-nyu/Chameleon): an efficient continuous adaptation framework based on NVIDIA TAO.
