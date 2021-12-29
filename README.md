@@ -9,15 +9,15 @@ Note: specific vision algorithms (tracking, object detection, segmentation and a
 - [Topics](#Topics) - group recent papers in different sub-topics (*i.e.,* Camera calibration)
   - [System](#System)
     - [Edge video analytics](#Edge-video-analytics) - speed up analysis pipeline
-    - [Database](#Database) - xxx
-    - [Video streaming](#Video-streaming) - xxx
-    - [Resource-aware video analytics](#Resource-aware-video-analytics) - xxx
-    - [Multi-Camera Collaboration](#Multi-Camera-Collaboration) - xxx
+    - [Database](#Database) - distributed data processing
+    - [Video streaming](#Video-streaming) - video compression
+    - [Resource-aware video analytics](#Resource-aware-video-analytics) - resource managment
+    - [Multi-Camera Collaboration](#Multi-Camera-Collaboration) - improve performance and reduce deployments' cost
     - [Privacy](#Privacy) - data privacy, model privacy and computation privacy
   - [AI Algorithm](#AI-Algorithm)
-    - [Low-resource learning](#Low-resource-learning) - xxx
-    - [Domain adaptation and continual learning](#Domain-adaptation-and-continual-learning) - xxx
-    - [Dynamic deep neural networks](#Dynamic-deep-neural-networks) - xxx
+    - [Low-resource learning](#Low-resource-learning) - efficient learning
+    - [Domain adaptation and continual learning](#Domain-adaptation-and-continual-learning) - robustness and sustainability 
+    - [Dynamic deep neural networks](#Dynamic-deep-neural-networks) - computing flexibility
 - [Dataset](#Dataset) - test your ideas on popular datasets
 - [Toolbox](#Toolbox) - verify your ideas quickly using toolbox
 ## Book and Survey
