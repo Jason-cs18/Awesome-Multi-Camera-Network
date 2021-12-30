@@ -11,7 +11,8 @@ Note: specific vision algorithms (tracking, object detection, segmentation and a
     - [Edge video analytics](#Edge-video-analytics) - speed up analysis pipeline
     - [Database](#Database) - distributed data processing
     - [Video streaming](#Video-streaming) - video compression
-    - [Resource-aware video analytics](#Resource-aware-video-analytics) - resource managment
+    - [Resource management](#Resource-aware-video-analytics) - resource managment
+    - [Prediction serving and model update](#Prediction-serving-and-model-update) - model exchange, prediction serving, model monitoring and model updates
     - [Multi-Camera Collaboration](#Multi-Camera-Collaboration) - improve performance and reduce deployments' cost
     - [Privacy](#Privacy) - data privacy, model privacy and computation privacy
   - [AI Algorithm](#AI-Algorithm)
@@ -67,7 +68,7 @@ Note: specific vision algorithms (tracking, object detection, segmentation and a
 5. [CS34702 Topics in Networks: Machine Learning for Networking and Systems (Fall 2020, UChicago)](https://people.cs.uchicago.edu/~junchenj/34702-f20/syllabus.html) - target to awesome recent research works on netwoking system (_video streaming and cloud scheduing_ are recommended)
 6. [CSE 234: Data Systems for Machine Learning (Fall 2021, UCSD)](https://cseweb.ucsd.edu/classes/fa21/cse234-a/index.html) - focus on the lifecycle of ML-based data analytics, including data sourcing and preparation for ML, programming models and systems for scalable ML model building, and systems for faster ML deployment
 ## Topics
-### System
+### System (edge video analytics, geo-distributed database, video straming, resource management, prediction serving & model update, multi-camera collaboration and privacy)
 #### Edge video analytics
 [1] [Li et al. Reducto: On-Camera Filtering for Resource-Efficient Real-Time Video Analytics. In *SIGCOMM'20*.](https://dl.acm.org/doi/pdf/10.1145/3387514.3405874)
 #### Database
@@ -78,11 +79,13 @@ Note: specific vision algorithms (tracking, object detection, segmentation and a
 [3] [Du et al. Server-Driven Video Streaming for Deep Learning Inference. In *SIGCOMM'20*.](https://dl.acm.org/doi/pdf/10.1145/3387514.3405887)<br>
 [4] [Han et al. ViVo: Visibility-aware Mobile Volumetric Video Streamin. In *MobiCom'20*.](https://dl.acm.org/doi/10.1145/3372224.3380888)<br>
 [5] [Zhang et al. SENSEI: Aligning Video Streaming Quality with Dynamic User Sensitivity. In *NSDI'21*.](https://www.usenix.org/conference/nsdi21/presentation/zhang-xu)<br>
-#### Resource-aware video analytics
+#### Resource management
 [1] [Zhang et al. The Design and Implementation of a Wireless Video Surveillance System. In *MobiCom'15*.](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/08/Bahl-MobiCom-2015.pdf)<br>
 [2] [Xu et al. Approximate Query Service on Autonomous IoT Cameras. In *MobiSys'20*.](https://arxiv.org/pdf/1909.00841.pdf)<br>
 [3] [Bhardwaj et al. Ekya: Continuous Learning of Video Analytics Models on Edge Compute Servers. In *NSDI'22*.](https://arxiv.org/abs/2012.10557) - target to solve when to retrain models and how to reduce resource usage for multi-tasks (many inference and retraining tasks). <br>
-[4] [Suprem et al. ODIN: Automated Drift Detection and Recovery in Video Analytics. In *VLDB'21*.](http://www.vldb.org/pvldb/vol13/p2453-suprem.pdf) - target to detect domain drift and update corresponding models automatically. 
+#### Prediction serving and model update
+[1] [Suprem et al. ODIN: Automated Drift Detection and Recovery in Video Analytics. In *VLDB'21*.](http://www.vldb.org/pvldb/vol13/p2453-suprem.pdf) - target to detect domain drift and update corresponding models automatically. <br>
+[2] [Romero et al. INFaaS: Automated Model-less Inference Serving. In *ATC'21*. **Best paper award**](https://www.usenix.org/system/files/atc21-romero.pdf) - the first model-less prediction serving system
 #### Multi-Camera Collaboration
 [1] [Jain et al. Scaling Video Analytics Systems to Large Camera Deployments. In *HotMobile'19*.](https://rtcl.eecs.umich.edu/yuanchao/paper/hotmobile19video.pdf)<br>
 [2] [Liu et al. Who2com: Collaborative Perception via Learnable Handshake Communication. In *ICRA'20*.](https://arxiv.org/abs/2003.09575)<br>
