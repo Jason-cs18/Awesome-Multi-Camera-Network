@@ -68,7 +68,7 @@ Note: specific vision algorithms (tracking, object detection, segmentation and a
 5. [CS34702 Topics in Networks: Machine Learning for Networking and Systems (Fall 2020, UChicago)](https://people.cs.uchicago.edu/~junchenj/34702-f20/syllabus.html) - target to awesome recent research works on netwoking system (_video streaming and cloud scheduing_ are recommended)
 6. [CSE 234: Data Systems for Machine Learning (Fall 2021, UCSD)](https://cseweb.ucsd.edu/classes/fa21/cse234-a/index.html) - focus on the lifecycle of ML-based data analytics, including data sourcing and preparation for ML, programming models and systems for scalable ML model building, and systems for faster ML deployment
 ## Topics
-### System (edge video analytics, geo-distributed database, video straming, resource management, prediction serving & model update, multi-camera collaboration and privacy)
+### System
 #### Edge video analytics
 [1] [Li et al. Reducto: On-Camera Filtering for Resource-Efficient Real-Time Video Analytics. In *SIGCOMM'20*.](https://dl.acm.org/doi/pdf/10.1145/3387514.3405874)
 #### Database
