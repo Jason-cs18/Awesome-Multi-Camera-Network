@@ -9,6 +9,7 @@ Note: specific vision algorithms (tracking, object detection, segmentation and a
 - [Topics](#Topics) - group recent papers in different sub-topics (*i.e.,* Camera calibration)
   - [System](#System)
     - [Edge video analytics](#Edge-video-analytics) - speed up analysis pipeline
+    - [Configuration search](#Configuration-search) - search most suitable configuration file
     - [Database](#Database) - distributed data processing
     - [Video streaming](#Video-streaming) - video compression
     - [Resource management](#Resource-aware-video-analytics) - resource managment
@@ -72,6 +73,8 @@ Note: specific vision algorithms (tracking, object detection, segmentation and a
 #### Edge video analytics
 [1] [Li et al. Reducto: On-Camera Filtering for Resource-Efficient Real-Time Video Analytics. In *SIGCOMM'20*.](https://dl.acm.org/doi/pdf/10.1145/3387514.3405874)<br>
 [2] [Xu et al. Video Analytics with Zero-streaming Cameras. In *ATC'21*.](https://www.usenix.org/conference/atc21/presentation/xu)
+#### Configuration search
+[1] [Romero et al. Llama: A Heterogeneous & Serverless Framework for Auto-Tuning Video Analytics Pipelines. In *SoCC'21*.](http://web.stanford.edu/~faromero/llama.pdf)
 #### Database
 [1] [Saurez et al. A drop-in middleware for serializable DB clustering across geo-distributed sites. In VLDB'20.](https://dl.acm.org/doi/10.14778/3415478.3415555)
 #### Video streaming
