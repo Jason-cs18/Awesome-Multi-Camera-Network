@@ -32,7 +32,7 @@ Note: specific vision algorithms (tracking, object detection, segmentation and a
 4. [Wang et al. Intelligent multi-camera video surveillance: a review. 2012.](https://dl.acm.org/citation.cfm?id=2397216)<br>
 5. [Ye et al. Wireless Video Surveillance: A Survey. 2013.](https://www.researchgate.net/publication/270767766_Wireless_Video_Surveillance_A_Survey)<br>
 6. [Zhang et al. Deep Learning in Mobile and Wireless Networking: A Survey. IEEE TRANS 2019.](https://arxiv.org/pdf/1803.04311.pdf)
-## Researchers and Workshops&Courses
+## Researchers, Workshops and Courses
 ### Researchers (organization and research interests)
 - System (live video analytics, distributed computing, video streaming, privacy, collaborative/continual learning)
   - [Matthias Boehm (Graz University of Technology, Austria)](https://mboehm7.github.io/#teaching) - data management and deep learning based data analytics
