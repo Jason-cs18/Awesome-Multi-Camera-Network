@@ -72,7 +72,9 @@ Note: specific vision algorithms (tracking, object detection, segmentation and a
 ### System
 #### Edge video analytics
 [1] [Li et al. Reducto: On-Camera Filtering for Resource-Efficient Real-Time Video Analytics. In *SIGCOMM'20*.](https://dl.acm.org/doi/pdf/10.1145/3387514.3405874)<br>
-[2] [Xu et al. Video Analytics with Zero-streaming Cameras. In *ATC'21*.](https://www.usenix.org/conference/atc21/presentation/xu)
+[2] [Xu et al. Video Analytics with Zero-streaming Cameras. In *ATC'21*.](https://www.usenix.org/conference/atc21/presentation/xu)<br>
+[3] [Jha et al. Visage: Enabling Timely Analytics for Drone Imagery. In *MobiCom'21*.](https://www.microsoft.com/en-us/research/publication/visage-enabling-timely-analytics-for-drone-imagery/)<br>
+[4] [Jiang et al. Flexible High-resolution Object Detection on Edge Devices with Tunable Latency. In *MobiCom'21*.](https://dl.acm.org/doi/abs/10.1145/3447993.3483274)
 #### Configuration search
 [1] [Romero et al. Llama: A Heterogeneous & Serverless Framework for Auto-Tuning Video Analytics Pipelines. In *SoCC'21*.](http://web.stanford.edu/~faromero/llama.pdf)
 #### Database
@@ -95,6 +97,7 @@ Note: specific vision algorithms (tracking, object detection, segmentation and a
 [4] [Wang et al. SmartHarvest: Harvesting Idle CPUs Safely and Efficiently in the Cloud. In *EuroSys'21*.](https://dl.acm.org/doi/10.1145/3447786.3456225) - identify and harvest idle resources<br>
 [5] [Gunasekaran et al. Cocktail: Leveraging Ensemble Learning for Optimized Model Serving in Public Cloud. In *NSDI'22*.](https://arxiv.org/abs/2106.05345) - expect to improve prediction serving's performance via ensembling learning<br>
 [6] [Hu et al. Scrooge: A Cost-Effective Deep Learning Inference System. In *SoCC'21*.](https://dl.acm.org/doi/10.1145/3472883.3486993) - consider input complexity 
+[7] [Ling et al. RT-mDL: Supporting Real-Time Mixed Deep Learning Tasks on Edge Platforms. In *SenSys'21*.](https://dl.acm.org/doi/10.1145/3485730.3485938) - scheduling multiple DL jobs in resource-constrainted devices
 #### Multi-Camera Collaboration
 [1] [Jain et al. Scaling Video Analytics Systems to Large Camera Deployments. In *HotMobile'19*.](https://rtcl.eecs.umich.edu/yuanchao/paper/hotmobile19video.pdf)<br>
 [2] [Liu et al. Who2com: Collaborative Perception via Learnable Handshake Communication. In *ICRA'20*.](https://arxiv.org/abs/2003.09575)<br>
