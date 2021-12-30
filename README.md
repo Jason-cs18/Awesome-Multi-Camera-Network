@@ -70,7 +70,8 @@ Note: specific vision algorithms (tracking, object detection, segmentation and a
 ## Topics
 ### System
 #### Edge video analytics
-[1] [Li et al. Reducto: On-Camera Filtering for Resource-Efficient Real-Time Video Analytics. In *SIGCOMM'20*.](https://dl.acm.org/doi/pdf/10.1145/3387514.3405874)
+[1] [Li et al. Reducto: On-Camera Filtering for Resource-Efficient Real-Time Video Analytics. In *SIGCOMM'20*.](https://dl.acm.org/doi/pdf/10.1145/3387514.3405874)<br>
+[2] [Xu et al. Video Analytics with Zero-streaming Cameras. In *ATC'21*.](https://www.usenix.org/conference/atc21/presentation/xu)
 #### Database
 [1] [Saurez et al. A drop-in middleware for serializable DB clustering across geo-distributed sites. In VLDB'20.](https://dl.acm.org/doi/10.14778/3415478.3415555)
 #### Video streaming
@@ -85,7 +86,7 @@ Note: specific vision algorithms (tracking, object detection, segmentation and a
 [3] [Bhardwaj et al. Ekya: Continuous Learning of Video Analytics Models on Edge Compute Servers. In *NSDI'22*.](https://arxiv.org/abs/2012.10557) - target to solve when to retrain models and how to reduce resource usage for multi-tasks (many inference and retraining tasks). <br>
 #### Prediction serving and model update
 [1] [Suprem et al. ODIN: Automated Drift Detection and Recovery in Video Analytics. In *VLDB'21*.](http://www.vldb.org/pvldb/vol13/p2453-suprem.pdf) - target to detect domain drift and update corresponding models automatically. <br>
-[2] [Romero et al. INFaaS: Automated Model-less Inference Serving. In *ATC'21*. **Best paper award**](https://www.usenix.org/system/files/atc21-romero.pdf) - the first model-less prediction serving system
+[2] [Romero et al. INFaaS: Automated Model-less Inference Serving. In *ATC'21*. **Best paper award!**](https://www.usenix.org/system/files/atc21-romero.pdf) - the first model-less prediction serving system
 #### Multi-Camera Collaboration
 [1] [Jain et al. Scaling Video Analytics Systems to Large Camera Deployments. In *HotMobile'19*.](https://rtcl.eecs.umich.edu/yuanchao/paper/hotmobile19video.pdf)<br>
 [2] [Liu et al. Who2com: Collaborative Perception via Learnable Handshake Communication. In *ICRA'20*.](https://arxiv.org/abs/2003.09575)<br>
