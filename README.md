@@ -107,7 +107,7 @@ Note: specific vision algorithms (tracking, object detection, segmentation and a
 [2] [Liu et al. Who2com: Collaborative Perception via Learnable Handshake Communication. In *ICRA'20*.](https://arxiv.org/abs/2003.09575)<br>
 [3] [Liu et al. When2com: Multi-Agent Perception via Communication Graph Grouping. In *CVPR'20*.](http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_When2com_Multi-Agent_Perception_via_Communication_Graph_Grouping_CVPR_2020_paper.pdf)<br>
 [4] [Zeng et al. Distream: Scaling Live Video Analytics withWorkload-Adaptive Distributed Edge Intelligence. In *SenSys'20*.](https://www.egr.msu.edu/~mizhang/papers/2020_SenSys_Distream.pdf)<br>
-[5] [Jain et al. Spatula: Efficient cross-camera video analytics on large camera networks. In *SEC'20*. **Best Paper Award**](https://www.microsoft.com/en-us/research/publication/spatula-efficient-cross-camera-video-analytics-on-large-camera-networks/)<br>
+[5] [Jain et al. Spatula: Efficient cross-camera video analytics on large camera networks. In *SEC'20*. **Best Paper Award!**](https://www.microsoft.com/en-us/research/publication/spatula-efficient-cross-camera-video-analytics-on-large-camera-networks/)<br>
 [6] [Tong et al. Large-Scale Vehicle Trajectory Reconstruction with Camera Sensing Network. In *MobiCom'21*.](https://wands.sg/publications/full_list/papers/MobiCom_21_1.pdf)
 #### Privacy
 |   Useful external links  | Keywords |
