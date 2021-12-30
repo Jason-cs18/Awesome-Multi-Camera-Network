@@ -75,7 +75,8 @@ Note: specific vision algorithms (tracking, object detection, segmentation and a
 [2] [Xu et al. Video Analytics with Zero-streaming Cameras. In *ATC'21*.](https://www.usenix.org/conference/atc21/presentation/xu)<br>
 [3] [Jha et al. Visage: Enabling Timely Analytics for Drone Imagery. In *MobiCom'21*.](https://www.microsoft.com/en-us/research/publication/visage-enabling-timely-analytics-for-drone-imagery/)<br>
 [4] [Jiang et al. Flexible High-resolution Object Detection on Edge Devices with Tunable Latency. In *MobiCom'21*.](https://dl.acm.org/doi/abs/10.1145/3447993.3483274)<br>
-[5] [Han et al. LegoDNN: Block-grained Scaling of Deep Neural Networks for Mobile Vision. In *MobiCom'21*.](https://dl.acm.org/doi/abs/10.1145/3447993.3483249)
+[5] [Han et al. LegoDNN: Block-grained Scaling of Deep Neural Networks for Mobile Vision. In *MobiCom'21*.](https://dl.acm.org/doi/abs/10.1145/3447993.3483249)<br>
+[6] [Zhang et al. Elf: Accelerate High-resolution Mobile Deep Vision with Content-aware Parallel Offloading. In *MobiCom'21*.](https://www.msra.cn/wp-content/uploads/2021/03/mobicom21-elf.pdf)
 #### Configuration search
 [1] [Romero et al. Llama: A Heterogeneous & Serverless Framework for Auto-Tuning Video Analytics Pipelines. In *SoCC'21*.](http://web.stanford.edu/~faromero/llama.pdf)
 #### Database
@@ -103,7 +104,8 @@ Note: specific vision algorithms (tracking, object detection, segmentation and a
 [1] [Jain et al. Scaling Video Analytics Systems to Large Camera Deployments. In *HotMobile'19*.](https://rtcl.eecs.umich.edu/yuanchao/paper/hotmobile19video.pdf)<br>
 [2] [Liu et al. Who2com: Collaborative Perception via Learnable Handshake Communication. In *ICRA'20*.](https://arxiv.org/abs/2003.09575)<br>
 [3] [Liu et al. When2com: Multi-Agent Perception via Communication Graph Grouping. In *CVPR'20*.](http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_When2com_Multi-Agent_Perception_via_Communication_Graph_Grouping_CVPR_2020_paper.pdf)<br>
-[4] [Tong et al. Large-Scale Vehicle Trajectory Reconstruction with Camera Sensing Network. In *MobiCom'21*.](https://wands.sg/publications/full_list/papers/MobiCom_21_1.pdf)
+[4] [Zeng et al. Distream: Scaling Live Video Analytics withWorkload-Adaptive Distributed Edge Intelligence. In *SenSys'20*.](https://www.egr.msu.edu/~mizhang/papers/2020_SenSys_Distream.pdf)<br>
+[5] [Tong et al. Large-Scale Vehicle Trajectory Reconstruction with Camera Sensing Network. In *MobiCom'21*.](https://wands.sg/publications/full_list/papers/MobiCom_21_1.pdf)
 #### Privacy
 |   Useful external links  | Keywords |
 |  ----  | ---- |
