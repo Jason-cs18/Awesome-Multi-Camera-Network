@@ -74,7 +74,8 @@ Note: specific vision algorithms (tracking, object detection, segmentation and a
 [1] [Li et al. Reducto: On-Camera Filtering for Resource-Efficient Real-Time Video Analytics. In *SIGCOMM'20*.](https://dl.acm.org/doi/pdf/10.1145/3387514.3405874)<br>
 [2] [Xu et al. Video Analytics with Zero-streaming Cameras. In *ATC'21*.](https://www.usenix.org/conference/atc21/presentation/xu)<br>
 [3] [Jha et al. Visage: Enabling Timely Analytics for Drone Imagery. In *MobiCom'21*.](https://www.microsoft.com/en-us/research/publication/visage-enabling-timely-analytics-for-drone-imagery/)<br>
-[4] [Jiang et al. Flexible High-resolution Object Detection on Edge Devices with Tunable Latency. In *MobiCom'21*.](https://dl.acm.org/doi/abs/10.1145/3447993.3483274)
+[4] [Jiang et al. Flexible High-resolution Object Detection on Edge Devices with Tunable Latency. In *MobiCom'21*.](https://dl.acm.org/doi/abs/10.1145/3447993.3483274)<br>
+[5] [Han et al. LegoDNN: Block-grained Scaling of Deep Neural Networks for Mobile Vision. In *MobiCom'21*.](https://dl.acm.org/doi/abs/10.1145/3447993.3483249)
 #### Configuration search
 [1] [Romero et al. Llama: A Heterogeneous & Serverless Framework for Auto-Tuning Video Analytics Pipelines. In *SoCC'21*.](http://web.stanford.edu/~faromero/llama.pdf)
 #### Database
