@@ -89,7 +89,9 @@ Note: specific vision algorithms (tracking, object detection, segmentation and a
 [1] [Suprem et al. ODIN: Automated Drift Detection and Recovery in Video Analytics. In *VLDB'21*.](http://www.vldb.org/pvldb/vol13/p2453-suprem.pdf) - target to detect domain drift and update corresponding models automatically. <br>
 [2] [Romero et al. INFaaS: Automated Model-less Inference Serving. In *ATC'21*. **Best paper award!**](https://www.usenix.org/system/files/atc21-romero.pdf) - the first model-less prediction serving system <br>
 [3] [Feng et al. Palleon: A Runtime System for Efficient Video Processing toward Dynamic Class Skew. In *ATC'21*.](https://www.usenix.org/conference/atc21/presentation/feng-boyuan) - model selection based on the automatically detected class skews<br>
-[4] [Wang et al. SmartHarvest: Harvesting Idle CPUs Safely and Efficiently in the Cloud. In *EuroSys'21*.](https://dl.acm.org/doi/10.1145/3447786.3456225) - identify and harvest idle resources
+[4] [Wang et al. SmartHarvest: Harvesting Idle CPUs Safely and Efficiently in the Cloud. In *EuroSys'21*.](https://dl.acm.org/doi/10.1145/3447786.3456225) - identify and harvest idle resources<br>
+[5] [Gunasekaran et al. Cocktail: Leveraging Ensemble Learning for Optimized Model Serving in Public Cloud. In *NSDI'22*.](https://arxiv.org/abs/2106.05345) - expect to improve prediction serving's performance via ensembling learning<br>
+[6] [Hu et al. Scrooge: A Cost-Effective Deep Learning Inference System. In *SoCC'21*.](https://dl.acm.org/doi/10.1145/3472883.3486993) - consider input complexity 
 #### Multi-Camera Collaboration
 [1] [Jain et al. Scaling Video Analytics Systems to Large Camera Deployments. In *HotMobile'19*.](https://rtcl.eecs.umich.edu/yuanchao/paper/hotmobile19video.pdf)<br>
 [2] [Liu et al. Who2com: Collaborative Perception via Learnable Handshake Communication. In *ICRA'20*.](https://arxiv.org/abs/2003.09575)<br>
