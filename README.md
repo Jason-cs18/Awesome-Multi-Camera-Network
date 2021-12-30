@@ -112,7 +112,7 @@ Note: specific vision algorithms (tracking, object detection, segmentation and a
 [11] [(CUHK) Ouyang et al. ClusterFL: A Similarity-Aware Federated Learning System for Human Activity Recognition. In _MobiSys'21_.](https://dl.acm.org/doi/10.1145/3458864.3467681)<br>
 [12] [(ICL and Telefónica Research) Mo et al. PPFL: Privacy-preserving Federated Learning with Trusted Execution Environments. In _MobiSys'21_ (Best paper award).](https://dl.acm.org/doi/10.1145/3458864.3466628)<br>
 [13] [(CMU, UCSD and MSR) Dsouza et al. Amadeus: Scalable, Privacy-Preserving Live Video Analytics. _arXiv prePrint 2011.05163_.](https://arxiv.org/pdf/2011.05163.pdf)<br>
-[14] [(MIT, Princeton, UChicago and Rutgers) Cangialosi et al. Privid: Practical, Privacy-Preserving Video Analytics Queries. _arXiv prePrint 2106.12083_.](https://arxiv.org/pdf/2106.12083.pdf)<br>
+[14] [(MIT, Princeton, UChicago and Rutgers) Cangialosi et al. Privid: Practical, Privacy-Preserving Video Analytics Queries. In _NSDI'22_.](https://arxiv.org/pdf/2106.12083.pdf)<br>
 ### AI Algorithm
 #### Low-resource learning
 [1] [H. Aghdam et al. Active Learning for Deep Detection Neural Networks. In *ICCV'19*.](http://openaccess.thecvf.com/content_ICCV_2019/papers/Aghdam_Active_Learning_for_Deep_Detection_Neural_Networks_ICCV_2019_paper.pdf) [Public Code](https://gitlab.com/haghdam/deep_active_learning) [Note](https://github.com/YanLu-nyu/Awesome-Multi-Camera-Network/blob/master/Automatic_Labeling.md)
