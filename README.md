@@ -85,7 +85,7 @@ Note: specific vision algorithms (tracking, object detection, segmentation and a
 [2] [Xu et al. Approximate Query Service on Autonomous IoT Cameras. In *MobiSys'20*.](https://arxiv.org/pdf/1909.00841.pdf)<br>
 [3] [Bhardwaj et al. Ekya: Continuous Learning of Video Analytics Models on Edge Compute Servers. In *NSDI'22*.](https://arxiv.org/abs/2012.10557) - target to solve when to retrain models and how to reduce resource usage for multi-tasks (many inference and retraining tasks). <br>
 [4] [Zhou et al. Octo: INT8 Training with Loss-aware Compensation and Backward Quantization for Tiny On-device Learning. In *ATC'21*.](https://www.usenix.org/conference/atc21/presentation/zhou-qihua)
-#### Prediction serving and model update (including model monitoring)
+#### Prediction serving and model update
 [1] [Suprem et al. ODIN: Automated Drift Detection and Recovery in Video Analytics. In *VLDB'21*.](http://www.vldb.org/pvldb/vol13/p2453-suprem.pdf) - target to detect domain drift and update corresponding models automatically. <br>
 [2] [Romero et al. INFaaS: Automated Model-less Inference Serving. In *ATC'21*. **Best paper award!**](https://www.usenix.org/system/files/atc21-romero.pdf) - the first model-less prediction serving system <br>
 [3] [Feng et al. Palleon: A Runtime System for Efficient Video Processing toward Dynamic Class Skew. In *ATC'21*.](https://www.usenix.org/conference/atc21/presentation/feng-boyuan) - model selection based on the automatically detected class skews<br>
