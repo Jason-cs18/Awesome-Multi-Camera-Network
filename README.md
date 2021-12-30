@@ -100,7 +100,7 @@ Note: specific vision algorithms (tracking, object detection, segmentation and a
 [4] [Wang et al. SmartHarvest: Harvesting Idle CPUs Safely and Efficiently in the Cloud. In *EuroSys'21*.](https://dl.acm.org/doi/10.1145/3447786.3456225) - identify and harvest idle resources<br>
 [5] [Hu et al. Scrooge: A Cost-Effective Deep Learning Inference System. In *SoCC'21*.](https://dl.acm.org/doi/10.1145/3472883.3486993) - consider input complexity <br>
 [6] [Ling et al. RT-mDL: Supporting Real-Time Mixed Deep Learning Tasks on Edge Platforms. In *SenSys'21*.](https://dl.acm.org/doi/10.1145/3485730.3485938) - scheduling multiple DL jobs in resource-constrainted devices<br>
-[7] [Schelter et al. Learning to Validate the Predictions of Black Box Classifiers on Unseen Data. In *SIGMOD'20*.](https://dl.acm.org/doi/abs/10.1145/3318464.3380604)<br>
+[7] [Schelter et al. Learning to Validate the Predictions of Black Box Classifiers on Unseen Data. In *SIGMOD'20*.](https://dl.acm.org/doi/abs/10.1145/3318464.3380604) - a tool to monitor models' performance<br>
 [8] [Agarwal et al. Boggart: Accelerating Retrospective Video Analytics via Model-Agnostic Ingest Processing. *arxiv prePrint 2106.15315*.](https://arxiv.org/abs/2106.15315)<br>
 [9] [Gunasekaran et al. Cocktail: Leveraging Ensemble Learning for Optimized Model Serving in Public Cloud. In *NSDI'22*.](https://arxiv.org/abs/2106.05345) - expect to improve prediction serving's performance via ensembling learning<br>
 #### Multi-Camera Collaboration
