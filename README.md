@@ -30,6 +30,7 @@ Note: specific vision algorithms (tracking, object detection, segmentation and a
 ## Researchers and Workshops&Courses
 ### Researchers (organization and research interests)
 - System (live video analytics, distributed computing, video streaming, privacy, collaborative/continual learning)
+  - [Arun Kumar (University of California San Diego, USA)](https://cseweb.ucsd.edu//~arunkk/) - data management and deep learning based data analytics
   - [Ganesh Ananthanarayanan (Microsoft Research, USA)](https://www.microsoft.com/en-us/research/people/ga/) - live video analytics, distributed computing
   - [Yuanchao Shu (Microsoft Research, USA)](https://www.microsoft.com/en-us/research/people/yushu/) - live video analytics, collobarative/continual learning
   - [Feng Qian (University of Minnesota Twin Cities, USA)](https://www-users.cse.umn.edu/~fengqian/pub.html) - video streaming
@@ -54,9 +55,11 @@ Note: specific vision algorithms (tracking, object detection, segmentation and a
 <!-- 2. [Video Stream Analytics Reading List (Vrije Universiteit Amsterdam)](https://linwang.info/publications/) - general, edge-cloud hybrid, edge-based, cloud-based, privacy and camera virtualization.
 3. [Literature of video streaming research (Stony Brook)](https://github.com/VideoForage/Video-Lit) - video streaming -->
 ### Courses
-1. [CS231A: Computer Vision, From 3D Reconstruction to Recognition (Winter 2021, Stanford)](https://web.stanford.edu/class/cs231a/) - focus on basic concepts behind many computer vision tasks across multi-camera networks (camera models, calibration, single- and multiple-view geometry, stereo systems, sfm, stereo, matching, depth estimation, optical flow and optimal estimation). 
-2. [CS239: ML-driven Video Analytics Systems (Fall 2020, UCLA)](http://web.cs.ucla.edu/~ravi/CS239_F20/index.html) - target to recent research interests on video analytics (_Strong Recommendation_).
-3. [CS34702 Topics in Networks: Machine Learning for Networking and Systems (Fall 2020, UChicago)](https://people.cs.uchicago.edu/~junchenj/34702-f20/syllabus.html) - target to awesome recent research works on netwoking system (_video streaming and cloud scheduing_ are recommended).
+1. [CS294: Machine Learning Systems (Fall 2019, Berkeley)](https://ucbrise.github.io/cs294-ai-sys-fa19/) - contain all concepts/background behind machine learning systems (the best reference website!)  
+2. [CS231A: Computer Vision, From 3D Reconstruction to Recognition (Winter 2021, Stanford)](https://web.stanford.edu/class/cs231a/) - focus on basic concepts behind many computer vision tasks across multi-camera networks (camera models, calibration, single- and multiple-view geometry, stereo systems, sfm, stereo, matching, depth estimation, optical flow and optimal estimation)
+3. [CS239: ML-driven Video Analytics Systems (Fall 2020, UCLA)](http://web.cs.ucla.edu/~ravi/CS239_F20/index.html) - target to recent research interests on video analytics (_Strong Recommendation_)
+4. [CS34702 Topics in Networks: Machine Learning for Networking and Systems (Fall 2020, UChicago)](https://people.cs.uchicago.edu/~junchenj/34702-f20/syllabus.html) - target to awesome recent research works on netwoking system (_video streaming and cloud scheduing_ are recommended)
+5. [CSE 234: Data Systems for Machine Learning (Fall 2021, UCSD)](https://cseweb.ucsd.edu/classes/fa21/cse234-a/index.html) - focus on the lifecycle of ML-based data analytics, including data sourcing and preparation for ML, programming models and systems for scalable ML model building, and systems for faster ML deployment
 ## Topics
 ### System
 #### Edge video analytics
