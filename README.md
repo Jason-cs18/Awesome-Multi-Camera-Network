@@ -98,10 +98,11 @@ Note: specific vision algorithms (tracking, object detection, segmentation and a
 [2] [Romero et al. INFaaS: Automated Model-less Inference Serving. In *ATC'21*. **Best paper award!**](https://www.usenix.org/system/files/atc21-romero.pdf) - the first model-less prediction serving system <br>
 [3] [Feng et al. Palleon: A Runtime System for Efficient Video Processing toward Dynamic Class Skew. In *ATC'21*.](https://www.usenix.org/conference/atc21/presentation/feng-boyuan) - model selection based on the automatically detected class skews<br>
 [4] [Wang et al. SmartHarvest: Harvesting Idle CPUs Safely and Efficiently in the Cloud. In *EuroSys'21*.](https://dl.acm.org/doi/10.1145/3447786.3456225) - identify and harvest idle resources<br>
-[5] [Gunasekaran et al. Cocktail: Leveraging Ensemble Learning for Optimized Model Serving in Public Cloud. In *NSDI'22*.](https://arxiv.org/abs/2106.05345) - expect to improve prediction serving's performance via ensembling learning<br>
-[6] [Hu et al. Scrooge: A Cost-Effective Deep Learning Inference System. In *SoCC'21*.](https://dl.acm.org/doi/10.1145/3472883.3486993) - consider input complexity <br>
-[7] [Ling et al. RT-mDL: Supporting Real-Time Mixed Deep Learning Tasks on Edge Platforms. In *SenSys'21*.](https://dl.acm.org/doi/10.1145/3485730.3485938) - scheduling multiple DL jobs in resource-constrainted devices<br>
-[8] [Agarwal et al. Boggart: Accelerating Retrospective Video Analytics via Model-Agnostic Ingest Processing. *arxiv prePrint 2106.15315*.](https://arxiv.org/abs/2106.15315)
+[5] [Hu et al. Scrooge: A Cost-Effective Deep Learning Inference System. In *SoCC'21*.](https://dl.acm.org/doi/10.1145/3472883.3486993) - consider input complexity <br>
+[6] [Ling et al. RT-mDL: Supporting Real-Time Mixed Deep Learning Tasks on Edge Platforms. In *SenSys'21*.](https://dl.acm.org/doi/10.1145/3485730.3485938) - scheduling multiple DL jobs in resource-constrainted devices<br>
+[7] [Schelter et al. Learning to Validate the Predictions of Black Box Classifiers on Unseen Data. In *SIGMOD'20*.](https://dl.acm.org/doi/abs/10.1145/3318464.3380604)<br>
+[8] [Agarwal et al. Boggart: Accelerating Retrospective Video Analytics via Model-Agnostic Ingest Processing. *arxiv prePrint 2106.15315*.](https://arxiv.org/abs/2106.15315)<br>
+[9] [Gunasekaran et al. Cocktail: Leveraging Ensemble Learning for Optimized Model Serving in Public Cloud. In *NSDI'22*.](https://arxiv.org/abs/2106.05345) - expect to improve prediction serving's performance via ensembling learning<br>
 #### Multi-Camera Collaboration
 [1] [Jain et al. Scaling Video Analytics Systems to Large Camera Deployments. In *HotMobile'19*.](https://rtcl.eecs.umich.edu/yuanchao/paper/hotmobile19video.pdf)<br>
 [2] [Liu et al. Who2com: Collaborative Perception via Learnable Handshake Communication. In *ICRA'20*.](https://arxiv.org/abs/2003.09575)<br>
