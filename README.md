@@ -76,7 +76,8 @@ Note: specific vision algorithms (tracking, object detection, segmentation and a
 [3] [Jha et al. Visage: Enabling Timely Analytics for Drone Imagery. In *MobiCom'21*.](https://www.microsoft.com/en-us/research/publication/visage-enabling-timely-analytics-for-drone-imagery/)<br>
 [4] [Jiang et al. Flexible High-resolution Object Detection on Edge Devices with Tunable Latency. In *MobiCom'21*.](https://dl.acm.org/doi/abs/10.1145/3447993.3483274)<br>
 [5] [Han et al. LegoDNN: Block-grained Scaling of Deep Neural Networks for Mobile Vision. In *MobiCom'21*.](https://dl.acm.org/doi/abs/10.1145/3447993.3483249)<br>
-[6] [Zhang et al. Elf: Accelerate High-resolution Mobile Deep Vision with Content-aware Parallel Offloading. In *MobiCom'21*.](https://www.msra.cn/wp-content/uploads/2021/03/mobicom21-elf.pdf)
+[6] [Zhang et al. Elf: Accelerate High-resolution Mobile Deep Vision with Content-aware Parallel Offloading. In *MobiCom'21*.](https://www.msra.cn/wp-content/uploads/2021/03/mobicom21-elf.pdf)<br>
+[7] [Xiao et al. Towards Performance Clarity of Edge Video Analytics. In *SEC'21*.](http://people.cs.uchicago.edu/~zhujunxiao/papers/benchmarking-sec21.pdf)
 #### Configuration search
 [1] [Romero et al. Llama: A Heterogeneous & Serverless Framework for Auto-Tuning Video Analytics Pipelines. In *SoCC'21*.](http://web.stanford.edu/~faromero/llama.pdf)
 #### Database
@@ -98,14 +99,16 @@ Note: specific vision algorithms (tracking, object detection, segmentation and a
 [3] [Feng et al. Palleon: A Runtime System for Efficient Video Processing toward Dynamic Class Skew. In *ATC'21*.](https://www.usenix.org/conference/atc21/presentation/feng-boyuan) - model selection based on the automatically detected class skews<br>
 [4] [Wang et al. SmartHarvest: Harvesting Idle CPUs Safely and Efficiently in the Cloud. In *EuroSys'21*.](https://dl.acm.org/doi/10.1145/3447786.3456225) - identify and harvest idle resources<br>
 [5] [Gunasekaran et al. Cocktail: Leveraging Ensemble Learning for Optimized Model Serving in Public Cloud. In *NSDI'22*.](https://arxiv.org/abs/2106.05345) - expect to improve prediction serving's performance via ensembling learning<br>
-[6] [Hu et al. Scrooge: A Cost-Effective Deep Learning Inference System. In *SoCC'21*.](https://dl.acm.org/doi/10.1145/3472883.3486993) - consider input complexity 
-[7] [Ling et al. RT-mDL: Supporting Real-Time Mixed Deep Learning Tasks on Edge Platforms. In *SenSys'21*.](https://dl.acm.org/doi/10.1145/3485730.3485938) - scheduling multiple DL jobs in resource-constrainted devices
+[6] [Hu et al. Scrooge: A Cost-Effective Deep Learning Inference System. In *SoCC'21*.](https://dl.acm.org/doi/10.1145/3472883.3486993) - consider input complexity <br>
+[7] [Ling et al. RT-mDL: Supporting Real-Time Mixed Deep Learning Tasks on Edge Platforms. In *SenSys'21*.](https://dl.acm.org/doi/10.1145/3485730.3485938) - scheduling multiple DL jobs in resource-constrainted devices<br>
+[8] [Agarwal et al. Boggart: Accelerating Retrospective Video Analytics via Model-Agnostic Ingest Processing. *arxiv prePrint 2106.15315*.](https://arxiv.org/abs/2106.15315)
 #### Multi-Camera Collaboration
 [1] [Jain et al. Scaling Video Analytics Systems to Large Camera Deployments. In *HotMobile'19*.](https://rtcl.eecs.umich.edu/yuanchao/paper/hotmobile19video.pdf)<br>
 [2] [Liu et al. Who2com: Collaborative Perception via Learnable Handshake Communication. In *ICRA'20*.](https://arxiv.org/abs/2003.09575)<br>
 [3] [Liu et al. When2com: Multi-Agent Perception via Communication Graph Grouping. In *CVPR'20*.](http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_When2com_Multi-Agent_Perception_via_Communication_Graph_Grouping_CVPR_2020_paper.pdf)<br>
 [4] [Zeng et al. Distream: Scaling Live Video Analytics withWorkload-Adaptive Distributed Edge Intelligence. In *SenSys'20*.](https://www.egr.msu.edu/~mizhang/papers/2020_SenSys_Distream.pdf)<br>
-[5] [Tong et al. Large-Scale Vehicle Trajectory Reconstruction with Camera Sensing Network. In *MobiCom'21*.](https://wands.sg/publications/full_list/papers/MobiCom_21_1.pdf)
+[5] [Jain et al. Spatula: Efficient cross-camera video analytics on large camera networks. In *SEC'20*. **Best Paper Award**](https://www.microsoft.com/en-us/research/publication/spatula-efficient-cross-camera-video-analytics-on-large-camera-networks/)<br>
+[6] [Tong et al. Large-Scale Vehicle Trajectory Reconstruction with Camera Sensing Network. In *MobiCom'21*.](https://wands.sg/publications/full_list/papers/MobiCom_21_1.pdf)
 #### Privacy
 |   Useful external links  | Keywords |
 |  ----  | ---- |
