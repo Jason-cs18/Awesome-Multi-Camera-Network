@@ -20,6 +20,7 @@ Note: specific vision algorithms (tracking, object detection, segmentation and a
     - [Domain adaptation and continual learning](#Domain-adaptation-and-continual-learning) - robustness and sustainability
       - For continual learning, most AI works focus on how to learn unseen classes and how to memory seen classes (avoid catastrophic forgetting). Thus, it is also named incremental learning.
       - For domain adaptation, AI researchers target to improve generalization of existing pretrained models. Based on given target data (labeled or unlabeled), existing algorithms can be split into two categories: (1) supervised retraining; (2) unsupervised domain adaptation (source-free and source-target-joint training).
+      - Recent works about **Model Exchange & Serving** and **Model Monitoring & Updates** are summarized in this [slide](https://mboehm7.github.io/teaching/ss21_amls/12_ModelDeployment.pdf) provided by *Architecture of ML Systems* (SS2021, Graz University of Technology).
     - [Dynamic deep neural networks](#Dynamic-deep-neural-networks) - computing flexibility
 - [Dataset](#Dataset) - test your ideas on popular datasets
 - [Toolbox](#Toolbox) - verify your ideas quickly using toolbox
@@ -33,6 +34,7 @@ Note: specific vision algorithms (tracking, object detection, segmentation and a
 ## Researchers and Workshops&Courses
 ### Researchers (organization and research interests)
 - System (live video analytics, distributed computing, video streaming, privacy, collaborative/continual learning)
+  - [Matthias Boehm (Graz University of Technology, Austria)](https://mboehm7.github.io/#teaching) - data management and deep learning based data analytics
   - [Arun Kumar (University of California San Diego, USA)](https://cseweb.ucsd.edu//~arunkk/) - data management and deep learning based data analytics
   - [Ganesh Ananthanarayanan (Microsoft Research, USA)](https://www.microsoft.com/en-us/research/people/ga/) - live video analytics, distributed computing
   - [Yuanchao Shu (Microsoft Research, USA)](https://www.microsoft.com/en-us/research/people/yushu/) - live video analytics, collobarative/continual learning
