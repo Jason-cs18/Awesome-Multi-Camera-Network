@@ -68,6 +68,7 @@ Note: specific vision algorithms (tracking, object detection, segmentation and a
 4. [CS239: ML-driven Video Analytics Systems (Fall 2020, UCLA)](http://web.cs.ucla.edu/~ravi/CS239_F20/index.html) - target to recent research interests on video analytics (_Strong Recommendation_)
 5. [CS34702 Topics in Networks: Machine Learning for Networking and Systems (Fall 2020, UChicago)](https://people.cs.uchicago.edu/~junchenj/34702-f20/syllabus.html) - target to awesome recent research works on netwoking system (_video streaming and cloud scheduing_ are recommended)
 6. [CSE 234: Data Systems for Machine Learning (Fall 2021, UCSD)](https://cseweb.ucsd.edu/classes/fa21/cse234-a/index.html) - focus on the lifecycle of ML-based data analytics, including data sourcing and preparation for ML, programming models and systems for scalable ML model building, and systems for faster ML deployment
+7. [CSE 291F: Advanced Data Analytics and ML Systems (Winter 2019, UCSD)](https://cseweb.ucsd.edu//classes/wi19/cse291-f/index.html) - the emerging area of advanced data analytics and ML systems, at the intersection of data management, ML/AI, and systems.
 ## Topics
 ### System
 #### Edge video analytics
