@@ -5,7 +5,7 @@
 Note: specific vision algorithms (tracking, object detection, segmentation and action recognition) are not collected in this note. If you want to learn or try them, you can refer to [SenseTime-CHUK Open-MMLab](https://github.com/open-mmlab/mmcv), which provides a suit of toolboxes to help AI researcher/engineers implement vision algorithms. For example, you can try 50+ image-based object detection models using the same [mmdetection](https://mmdetection.readthedocs.io/en/latest/) API and try 10+ video-based object detection methods using the same [mmtracking](https://github.com/open-mmlab/mmtracking) API. 
 ## Outline
 - [Book and Survey](#Book-and-Survey) - a starting point to understand basic concepts behind multi-camera networks
-- [Researchers, Workshops and Courses](#Researchers-and-Workshops&Courses) - follow them to get recent research trends in multi-camera networks
+- [Researchers, Workshops and Courses](#Researchers,-Workshops-and-Courses) - follow them to get recent research trends in multi-camera networks
 - [Topics](#Topics) - group recent papers in different sub-topics (*i.e.,* Camera calibration)
   - [System](#System)
     - [Edge video analytics](#Edge-video-analytics) - speed up analysis pipeline
